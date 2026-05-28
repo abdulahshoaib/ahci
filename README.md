@@ -17,7 +17,3 @@ hugo server
 ```sh
 hugo --minify
 ```
-
-## Deploy
-
-Push to `main`. CI builds site, then promotes passing commits to `prod` for Netlify.
