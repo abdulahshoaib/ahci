@@ -1,0 +1,8 @@
+<script>
+  (() => {
+    const key = "ahci-theme";
+    const saved = localStorage.getItem(key);
+    const theme = saved || "dark";
+    document.documentElement.dataset.theme = theme;
+  })();
+</script>

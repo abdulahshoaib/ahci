@@ -1,0 +1,24 @@
+<script>
+  (() => {
+    const key = "ahci-theme";
+    const root = document.documentElement;
+    const buttons = document.querySelectorAll(".theme-toggle");
+
+    const apply = (theme) => {
+      root.dataset.theme = theme;
+      localStorage.setItem(key, theme);
+      buttons.forEach((button) => {
+        button.setAttribute("aria-pressed", theme === "dark");
+        button.querySelector(".theme-toggle-label").textContent = theme === "dark" ? "Dark" : "Light";
+      });
+    };
+
+    apply(root.dataset.theme || "dark");
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        apply(root.dataset.theme === "dark" ? "light" : "dark");
+      });
+    });
+  })();
+</script>
