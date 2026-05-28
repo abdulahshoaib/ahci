@@ -5,7 +5,7 @@
   publish = "public"
 
 [context.production.environment]
-  HUGO_VERSION = "0.152.2"
+  HUGO_VERSION = "0.162.0"
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
