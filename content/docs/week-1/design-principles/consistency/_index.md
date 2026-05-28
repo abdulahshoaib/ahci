@@ -5,14 +5,57 @@ weight: 4
 
 # Consistency
 
-Consistency means similar actions, labels, layouts, and behaviors work in similar ways across a system. It helps users transfer knowledge from one part of an interface to another.
+Consistency means similar actions, controls, and interface elements should behave in the same way across a system.
 
-## Forms of Consistency
+Consistent interfaces are easier to:
 
-- **Internal consistency:** The product uses the same patterns throughout itself.
-- **External consistency:** The product follows conventions users already know from other systems.
-- **Terminology consistency:** The same concept is not renamed in different places.
+* Learn
+* Remember
+* Use
 
-## Example
+Consistency reduces user confusion and improves usability.
 
-If a trash icon deletes an item in one list, the same icon should not archive an item in another list without clear explanation.
+## Types of Consistency
+
+### Internal Consistency
+
+Internal consistency means operations behave similarly within the same application.
+
+Example:
+
+* All save buttons inside an app work the same way.
+
+### External Consistency
+
+External consistency means interfaces behave similarly across different systems and devices.
+
+Example:
+
+* Common keyboard shortcuts like `Ctrl + C` for copy.
+
+## Benefits of Consistency
+
+Consistency helps users:
+
+* Predict system behavior
+* Learn interfaces faster
+* Reduce mistakes
+* Build familiarity
+
+## Examples
+
+### Keyboard Shortcuts
+
+Using similar shortcuts like:
+
+* `Ctrl + S` → Save
+* `Ctrl + C` → Copy
+
+### Mobile Applications
+
+Navigation bars appearing in the same position across screens.
+
+### Keypad Layouts
+
+Phones and calculators use different keypad layouts, which can confuse users because of external inconsistency.
+

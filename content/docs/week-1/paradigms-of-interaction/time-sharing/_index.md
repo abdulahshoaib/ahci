@@ -5,15 +5,33 @@ weight: 2
 
 # Time Sharing
 
-Time sharing allows multiple users to interact with a computer system at the same time. The computer rapidly switches between users, giving each person the impression of interactive access.
+Time sharing is an interaction paradigm where multiple users can interact with a computer system at the same time.
 
-## Characteristics
+The computer rapidly switches between users, giving each user a small amount of processing time.
 
-- Supports terminals and command-line interaction.
-- Provides faster feedback than batch processing.
-- Enables interactive editing, debugging, and exploration.
-- Shares computing resources across many users.
+This made computing more interactive compared to batch processing.
 
-## HCI Impact
+## Features of Time Sharing
 
-Time sharing made computing more conversational because users could issue commands, inspect results, and revise their actions during a session.
+* Multiple users share one system
+* Interactive computing
+* Faster feedback
+* Users can directly interact with the computer
+
+## Advantages
+
+* Improved responsiveness
+* Better resource sharing
+* More efficient computer usage
+
+## Disadvantages
+
+* Expensive systems
+* Performance slows with many users
+* Requires complex operating systems
+
+## Examples
+
+* Multi-user mainframe systems
+* University computer labs
+* Shared server systems

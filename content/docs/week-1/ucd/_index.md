@@ -5,17 +5,60 @@ weight: 4
 
 # User-Centered Design (UCD)
 
-User-centered design is an approach that places users, their goals, and their context at the center of the design process. Instead of assuming what people need, designers investigate, prototype, test, and improve based on evidence.
+User-Centered Design (UCD) is a design approach where users are involved throughout the design process to ensure the system meets their real needs.
 
-## Process
+The focus is on:
 
-1. Understand users, tasks, and context.
-2. Define requirements from user needs.
-3. Create design alternatives.
-4. Prototype the most promising ideas.
-5. Evaluate with users.
-6. Iterate based on findings.
+* Users
+* User needs
+* Usability
+* Accessibility
+* User feedback
 
-## Why It Matters
+## What is UCD?
 
-UCD reduces the risk of building systems that are technically correct but difficult, frustrating, or inappropriate for the people who must use them.
+UCD focuses on designing systems around the user instead of the technology.
+
+Designers study:
+
+* How users behave
+* What users need
+* Problems users face
+* User goals and tasks
+
+## Main Principles of UCD
+
+* Users are involved during development
+* Design is improved through feedback
+* Systems are tested with real users
+* Design changes are made iteratively
+
+## Benefits of UCD
+
+UCD helps create systems that are:
+
+* Easier to use
+* More efficient
+* More accessible
+* More satisfying
+
+It also reduces:
+
+* User errors
+* Confusion
+* Frustration
+
+## UCD, IxD, and UX
+
+| Concept | Meaning        |
+| ------- | -------------- |
+| UCD     | How we design  |
+| IxD     | What we design |
+| UX      | How users feel |
+
+## Examples of UCD
+
+* Testing mobile apps with users
+* Collecting user feedback
+* Improving interfaces after usability testing
+* Designing accessible websites

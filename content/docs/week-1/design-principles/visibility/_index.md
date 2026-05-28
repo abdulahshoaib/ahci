@@ -5,15 +5,27 @@ weight: 1
 
 # Visibility
 
-Visibility means users can see what actions are available and what state the system is in. When important controls, options, or status information are hidden, users must guess or rely on memory.
+Visibility means important controls, actions, and system states should be easy for users to see and understand.
 
-## Good Visibility
+Users should quickly know:
 
-- Primary actions are easy to find.
-- Current status is clear.
-- Available options are shown at the right time.
-- Disabled or unavailable actions are visually distinct.
+* What actions are possible
+* What to do next
+* What the system is doing
 
-## Example
+Good visibility reduces confusion and improves usability.
 
-A media player with visible play, pause, volume, and progress controls is easier to understand than one that hides every action behind unlabeled gestures.
+## Examples
+
+### Elevator Controls
+
+Hidden card readers on elevators confuse users because the required action is not visible.
+
+### Mobile Apps
+
+Visible navigation buttons help users move easily between screens.
+
+### ATM Machines
+
+Clearly labeled buttons and screens make transactions easier and faster.
+

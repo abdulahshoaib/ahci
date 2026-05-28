@@ -3,20 +3,58 @@ title: UX
 weight: 2
 ---
 
-# Usability and User Experience (UX)
+# User Experience (UX)
 
-Usability describes how effectively, efficiently, and safely people can use a system to achieve their goals. User experience is broader: it includes usability, but also the user's feelings, trust, satisfaction, expectations, and overall impression before, during, and after use.
+User Experience (UX) refers to how users feel when interacting with a product or system. It focuses on making systems enjoyable, easy to use, and satisfying.
 
-## Usability
+Good UX improves:
 
-Usability asks whether people can use the system well.
+* User satisfaction
+* Ease of use
+* Accessibility
+* Engagement
 
-- **Effectiveness:** Can users complete the task?
-- **Efficiency:** Can they complete it with reasonable time and effort?
-- **Safety:** Does the system prevent serious errors and support recovery?
-- **Learnability:** Can new users understand how to begin?
-- **Memorability:** Can returning users remember how to use it?
+## What is UX?
 
-## User Experience
+UX includes a user’s:
 
-UX asks what the whole experience feels like. A product may be usable but still unpleasant, stressful, or untrustworthy. Good UX aligns function, clarity, tone, speed, reliability, and emotional response.
+* Feelings
+* Emotions
+* Perceptions
+* Satisfaction
+
+It focuses on the complete experience users have while using a system.
+
+## Good UX
+
+A good user experience is:
+
+* Enjoyable
+* Simple
+* Engaging
+* Helpful
+* Efficient
+
+Examples:
+
+* Smartphones
+* Streaming apps
+* Voice assistants
+* Modern websites
+
+## Poor UX
+
+Poor UX may feel:
+
+* Confusing
+* Frustrating
+* Slow
+* Annoying
+
+## UX vs Usability
+
+| UX                            | Usability              |
+| ----------------------------- | ---------------------- |
+| Focuses on overall experience | Focuses on ease of use |
+| Includes emotions             | Includes efficiency    |
+| Broader concept               | Part of UX             |

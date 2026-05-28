@@ -5,15 +5,54 @@ weight: 3
 
 # GUI and Direct Manipulation
 
-Graphical user interfaces use windows, icons, menus, and pointers to make interaction more visual. Direct manipulation lets users act on visible objects instead of remembering abstract commands.
+## Graphical User Interface (GUI)
 
-## Characteristics
+A Graphical User Interface (GUI) allows users to interact with computers using visual elements instead of typing commands.
 
-- Objects and actions are visible.
-- Users point, click, drag, and drop.
-- Feedback is immediate.
-- Actions often feel reversible and exploratory.
+GUI systems commonly use:
 
-## Example
+* Windows
+* Icons
+* Menus
+* Pointer devices
 
-Dragging a file into a folder is direct manipulation because the user acts on visible objects and sees the result immediately.
+This interaction style is often called WIMP.
+
+### Advantages
+
+* Easy to learn
+* Visual interaction
+* User-friendly
+* Reduces memorization
+
+### Examples
+
+* Windows OS
+* macOS
+* Android interfaces
+
+## Direct Manipulation
+
+Direct manipulation allows users to interact directly with objects shown on the screen.
+
+Users can:
+
+* Drag objects
+* Move files
+* Resize windows
+* Select icons
+
+The system provides immediate feedback after actions.
+
+### Advantages
+
+* Natural interaction
+* Immediate response
+* Easy to understand
+* Improves usability
+
+### Examples
+
+* Drag and drop
+* Touchscreen gestures
+* File management systems

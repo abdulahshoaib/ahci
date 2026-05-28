@@ -5,15 +5,51 @@ weight: 5
 
 # Affordances
 
-Affordances are the action possibilities that an object or interface suggests to a user. In interface design, perceived affordances matter because users act based on what they think they can do.
+## Overview
+
+Affordances are clues about how an object or interface should be used. They help users understand possible actions without instructions.
+
+Affordances make interaction more natural and intuitive.
+
+## Purpose of Affordances
+
+Affordances help users:
+
+* Understand controls
+* Predict actions
+* Learn interfaces quickly
+* Interact naturally
+
+## Physical Affordances
+
+Physical objects suggest their usage through shape or design.
+
+Examples:
+
+* A button suggests pressing
+* A door handle suggests pulling
+* A slider suggests dragging
+
+## Perceived Affordances
+
+In digital interfaces, affordances are usually visual clues instead of physical ones.
+
+Examples:
+
+* Icons that appear clickable
+* Scrollbars suggesting scrolling
+* Buttons changing color on hover
 
 ## Examples
 
-- A button shape suggests pressing or clicking.
-- A text field suggests typing.
-- A slider suggests dragging.
-- A handle suggests pulling.
+### Scrollbars
 
-## Signifiers
+Suggest moving up or down through content.
 
-Interfaces often need signifiers, such as labels, icons, shadows, or cursor changes, to communicate affordances clearly.
+### Icons
+
+Clickable icons suggest interaction or opening applications.
+
+### Mobile Buttons
+
+Raised or highlighted buttons indicate they can be pressed.

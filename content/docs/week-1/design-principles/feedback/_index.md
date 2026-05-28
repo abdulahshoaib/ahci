@@ -5,15 +5,27 @@ weight: 2
 
 # Feedback
 
-Feedback is the system's response to a user's action. It confirms that the action was received, shows progress, reports results, and helps users recover from problems.
+Feedback is the system’s response to a user’s action. It informs users about what has happened after an interaction.
 
-## Types of Feedback
+Good feedback helps users understand:
 
-- Visual feedback, such as highlighting a selected item.
-- Text feedback, such as a confirmation message.
-- Audio feedback, such as an alert sound.
-- Haptic feedback, such as vibration on a phone.
+* Whether an action was successful
+* What the system is doing
+* If an error occurred
 
-## Example
+Feedback improves usability and reduces confusion.
 
-After submitting a form, a system should show whether submission succeeded, whether validation failed, or whether the request is still processing.
+## Examples
+
+### Button Click
+
+A button changes color or highlights when clicked.
+
+### Mobile Notifications
+
+A phone vibrates or plays a sound after receiving a message.
+
+### Loading Indicator
+
+A progress bar or spinning icon shows that a task is processing.
+

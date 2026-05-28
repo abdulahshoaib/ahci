@@ -5,15 +5,36 @@ weight: 3
 
 # Constraints
 
-Constraints limit possible actions so users are guided toward valid choices. They reduce mistakes by making invalid actions impossible, unavailable, or clearly inappropriate.
+## Overview
 
-## Types of Constraints
+Constraints restrict the actions users can perform in a system. They help prevent mistakes and guide users toward correct actions.
 
-- **Physical:** A plug fits only in the correct orientation.
-- **Logical:** A checkout button stays disabled until required fields are complete.
-- **Cultural:** Common conventions guide interpretation, such as red for danger.
-- **Semantic:** The meaning of a situation restricts what makes sense.
+Constraints improve usability by reducing confusion and limiting incorrect operations.
 
-## Example
+## Purpose of Constraints
 
-A date picker that prevents selecting an end date before a start date uses constraints to avoid an invalid input.
+Constraints help users:
+
+* Avoid errors
+* Make correct choices
+* Understand system limitations
+* Use systems more safely and efficiently
+
+## Examples
+
+### Key and Lock
+
+A key only fits into a lock in one correct way.
+
+### USB Device
+
+A USB cable can only be inserted in a specific orientation.
+
+### Form Validation
+
+Online forms prevent users from submitting incomplete or invalid information.
+
+### Menu Restrictions
+
+Disabled buttons or unavailable options stop users from selecting invalid actions.
+

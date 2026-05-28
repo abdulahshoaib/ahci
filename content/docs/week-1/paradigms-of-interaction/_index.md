@@ -7,12 +7,17 @@ params:
 
 # Paradigms of Interaction
 
-Interaction paradigms are broad models for how people use computers. Each paradigm reflects the technology of its time and changes the relationship between user and system.
+Paradigms of interaction are different ways humans communicate and interact with computers. They represent the evolution of interaction styles as technology advanced over time.
 
-This section covers:
+Interaction paradigms help improve:
 
-- Batch Processing
-- Time Sharing
-- GUI and Direct Manipulation
-- Personal and Ubiquitous Computing
-- VR, AR, and Agent-Based Interfaces
+* Usability
+* Efficiency
+* Accessibility
+* User experience
+
+As computing evolved, interaction moved from complex machine-centered systems to more natural and human-centered interfaces.
+
+## Evolution of Paradigms
+
+`Batch Processing → Time Sharing → GUI → Touch → Voice → VR/AR`

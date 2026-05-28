@@ -5,20 +5,68 @@ weight: 5
 
 # VR, AR, and Agent-Based Interfaces
 
-Newer interaction paradigms move beyond traditional screens and pointers. Virtual reality, augmented reality, and agent-based interfaces change how users perceive, navigate, and delegate tasks.
+## Virtual Reality (VR)
 
-## Virtual Reality
+Virtual Reality (VR) creates a fully digital and immersive environment where users interact inside a computer-generated world.
 
-VR places users inside a simulated environment. Interaction may involve head movement, hand tracking, controllers, spatial audio, and embodied navigation.
+VR systems often use:
 
-## Augmented Reality
+* VR headsets
+* Motion tracking
+* Sensors
+* 3D interaction devices
 
-AR overlays digital information onto the physical world. Design must align virtual content with real-world objects, motion, and context.
+### Features
+
+* Immersive interaction
+* 3D environments
+* Real-time feedback
+* Motion-based interaction
+
+### Examples
+
+* VR gaming
+* Flight simulators
+* Virtual training systems
+
+## Augmented Reality (AR)
+
+### Overview
+
+Augmented Reality (AR) adds digital objects or information to the real world.
+
+Unlike VR, users still see the physical environment while digital content is overlaid on top.
+
+### Features
+
+* Combines real and virtual objects
+* Real-time interaction
+* Interactive visual overlays
+
+### Examples
+
+* Snapchat filters
+* Pokémon GO
+* AR navigation systems
 
 ## Agent-Based Interfaces
 
-Agent-based interfaces let users delegate goals or tasks to software agents. The system may interpret intent, make suggestions, automate steps, or act on the user's behalf.
+### Overview
 
-## HCI Impact
+Agent-based interfaces use intelligent software agents to assist users and automate tasks.
 
-These paradigms require careful attention to trust, control, feedback, safety, privacy, and user understanding of system capabilities.
+These systems often use:
+
+* Natural language processing
+* AI assistance
+* Proactive interaction
+
+Agents communicate with users more naturally compared to traditional command systems.
+
+### Examples
+
+* Siri
+* Alexa
+* Google Assistant
+* Chatbots
+

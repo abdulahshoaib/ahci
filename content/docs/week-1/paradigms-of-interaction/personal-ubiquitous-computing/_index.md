@@ -5,16 +5,46 @@ weight: 4
 
 # Personal and Ubiquitous Computing
 
-Personal computing made computers available to individuals for work, learning, communication, and entertainment. Ubiquitous computing extends this by embedding computation into everyday environments and devices.
-
 ## Personal Computing
 
-Personal computers give users direct control over applications, files, settings, and local tasks.
+Personal computing refers to computers designed for individual users instead of large organizations or shared systems.
+
+The introduction of microprocessors made computers smaller, cheaper, and more accessible.
+
+This shifted computing from shared mainframes to personal devices.
+
+### Features
+
+* Single-user systems
+* Interactive interfaces
+* Affordable computing
+* Increased accessibility
+
+### Examples
+
+* Desktop computers
+* Laptops
+* Personal tablets
 
 ## Ubiquitous Computing
 
-Ubiquitous computing appears in phones, smart watches, cars, appliances, sensors, and connected environments. Interaction may be mobile, contextual, automatic, or distributed across devices.
+Ubiquitous computing refers to computing systems embedded into everyday environments and objects.
+The goal is to make technology available everywhere while remaining seamless and less noticeable.
 
-## HCI Impact
+Computers become part of daily life instead of separate devices.
 
-Design must account for interruption, mobility, privacy, attention, and changing contexts of use.
+### Features
+
+* Embedded systems
+* Continuous connectivity
+* Context-aware interaction
+* Seamless computing experience
+
+### Examples
+
+* Smart homes
+* Smart watches
+* IoT devices
+* Smart appliances
+* Wearable technology
+

@@ -12,7 +12,6 @@ Week 1 introduces the foundations of human-computer interaction. It covers how p
 
 - [Interaction Design (IxD)](ixd/)
 - [Usability and User Experience (UX)](ux/)
-- [Good vs Poor Design](good-vs-poor-design/)
 - [User-Centered Design (UCD)](ucd/)
 - [Design Principles](design-principles/)
   - [Visibility](design-principles/visibility/)
@@ -21,9 +20,6 @@ Week 1 introduces the foundations of human-computer interaction. It covers how p
   - [Consistency](design-principles/consistency/)
   - [Affordances](design-principles/affordances/)
 - [The Computer and Interaction](computer-and-interaction/)
-- [Input Devices](input-devices/)
-- [Output and Display Devices](output-and-display-devices/)
-- [Memory, Processing, and Networks](memory-processing-networks/)
 - [Paradigms of Interaction](paradigms-of-interaction/)
   - [Batch Processing](paradigms-of-interaction/batch-processing/)
   - [Time Sharing](paradigms-of-interaction/time-sharing/)

@@ -5,15 +5,31 @@ weight: 1
 
 # Batch Processing
 
-Batch processing is an early interaction paradigm where users prepare jobs in advance, submit them to the computer, and receive results later. Interaction is indirect and delayed.
+Batch processing was one of the earliest interaction paradigms in computing. Users submitted jobs or tasks to the computer, and the system processed them in batches without direct user interaction.
 
-## Characteristics
+Users often had to wait a long time before receiving results.
 
-- Little or no real-time feedback.
-- Users must prepare complete instructions before execution.
-- Errors may only be discovered after processing finishes.
-- Efficient for large, repetitive jobs.
+## Features of Batch Processing
 
-## HCI Impact
+* No direct interaction with the computer
+* Tasks processed one after another
+* Slow feedback
+* Users prepared jobs before execution
 
-Batch processing places a heavy burden on planning and correctness because users cannot easily adjust the task while it runs.
+## Advantages
+
+* Efficient for repetitive tasks
+* Good for large-scale data processing
+
+## Disadvantages
+
+* Very slow response time
+* Difficult to correct errors quickly
+* Not user-friendly
+
+## Examples
+
+* Punch card systems
+* Early mainframe computers
+* Payroll processing systems
+

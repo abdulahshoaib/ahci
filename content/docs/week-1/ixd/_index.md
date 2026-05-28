@@ -3,16 +3,41 @@ title: IxD
 weight: 1
 ---
 
-# Interaction Design (IxD)
+# Interaction Design
 
-Interaction design is the practice of shaping how people use, understand, and respond to interactive systems. It focuses on the dialogue between a person and a product: what the user wants to do, what the system makes possible, and how clearly the system communicates its state.
+Interaction Design (IxD) focuses on designing interactive systems that support how people communicate, work, and interact in everyday life. It combines usability, accessibility, user experience, and interface design to create systems that are effective, efficient, and satisfying to use.
 
-## Key Ideas
+Interaction design is multidisciplinary and draws knowledge from:
 
-- Interaction design is concerned with behavior, not only appearance.
-- Good interaction design supports users' goals with clear actions, useful feedback, and predictable results.
-- The designer must consider the user, the task, the context, and the technology together.
+* Computer Science
+* Psychology
+* Cognitive Science
+* Ergonomics
+* Sociology
+* Graphic Design
+* Engineering
 
-## Example
+The goal is to create systems that match user needs, behaviors, and expectations.
 
-In a banking app, the layout of the transfer form is visual design, but the sequence of choosing an account, entering an amount, confirming details, receiving a receipt, and recovering from errors is interaction design.
+## What is Interaction Design?
+
+Interaction design refers to:
+
+> Designing interactive products to support the way people communicate and interact in their everyday and working lives.
+
+It focuses on:
+
+* Users
+* Tasks
+* Context of use
+* User goals
+* System behavior
+
+Examples of interactive systems include:
+
+* Websites
+* Mobile applications
+* ATM interfaces
+* Smart TVs
+* Wearable devices
+* Virtual reality systems
