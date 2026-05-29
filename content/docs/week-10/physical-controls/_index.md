@@ -7,17 +7,25 @@ params:
 
 # Physical Controls
 
-Physical controls include buttons, switches, knobs, sliders, touch areas, handles, and other tangible input elements.
+Physical controls are the hardware components that users interact with directly to operate a device. Unlike graphical interface elements on a screen, physical controls exist in the real world and can be touched, pressed, turned, or moved.
 
-## Design Concerns
+Examples of physical controls include:
 
-- Size and reach.
-- Movement and resistance.
-- Labels and signifiers.
-- Feedback.
-- Error prevention.
-- Accessibility.
+- Buttons
+- Switches
+- Knobs
+- Dials
+- Sliders
+- Keypads
 
-## Design Implication
+The design of physical controls affects how easily users can understand and operate a device. Users should be able to identify available controls, understand their purpose, and use them with minimal effort.
 
-Physical controls should make possible actions visible and comfortable. Shape, placement, and feedback all affect usability.
+Design principles used for screen interfaces also apply to physical controls, including:
+
+- Grouping related controls together
+- Arranging controls in a logical order
+- Using colour and decoration appropriately
+- Maintaining clear alignment
+- Using spacing to improve organization
+
+Good physical control design helps users perform tasks efficiently, reduces errors, and makes devices easier to learn and use.
