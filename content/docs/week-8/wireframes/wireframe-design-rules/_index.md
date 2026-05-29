@@ -5,18 +5,78 @@ weight: 1
 
 # Wireframe Design Rules
 
-Wireframe rules keep focus on layout, flow, and content priority.
+Wireframes follow a set of simple rules that keep attention focused on structure, functionality, and usability rather than visual design.
 
-## Rules
+## 1. No Color
 
-- Show major content areas.
-- Label actions clearly.
-- Keep visual style minimal.
-- Use realistic content when possible.
-- Indicate navigation and state changes.
-- Annotate behavior that drawing cannot show.
-- Keep spacing and hierarchy intentional.
+Wireframes should use only grayscale colors:
 
-## Design Implication
+- White
+- Black
+- Gray
 
-Good wireframes are clear enough to discuss interaction without pretending to be final visual design.
+The purpose is to prevent discussions about branding, aesthetics, or visual styling and keep the focus on layout and functionality.
+
+### Example
+
+```text
++-------------------+
+| Header            |
++-------------------+
+| Content Area      |
++-------------------+
+```
+
+## 2. Use Placeholders
+
+Actual content is usually not included in a wireframe.
+
+Instead:
+
+- Images are represented by boxes with an "X"
+- Text is represented by lines or placeholder text
+- Content is simplified to show structure only
+
+### Image Placeholder
+
+```text
++-------------+
+| \         / |
+|     X       |
+| /         \ |
++-------------+
+```
+
+### Text Placeholder
+
+```text
+---------------
+---------------
+---------------
+```
+
+## 3. Use Standard Symbols
+
+Wireframes should use common interface symbols that users already recognize.
+
+| Symbol | Meaning |
+|----------|---------|
+| 🔍 | Search |
+| ☰ | Menu |
+| ← | Back |
+| → | Next |
+| 🏠 | Home |
+
+Using familiar symbols helps communicate functionality clearly.
+
+## Purpose of These Rules
+
+These rules ensure that wireframes:
+
+- Focus on structure and functionality
+- Emphasize usability over appearance
+- Remain quick and easy to create
+- Support rapid design changes
+- Improve communication among stakeholders
+
+By following these rules, designers can evaluate layouts, navigation, and user flows without being distracted by visual design details.

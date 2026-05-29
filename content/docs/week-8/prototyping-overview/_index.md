@@ -5,16 +5,33 @@ weight: 2
 
 # Prototyping Overview
 
-Prototyping creates early versions of design ideas so teams can explore, communicate, and evaluate before full implementation.
+Prototyping is the process of creating representations of a design so that stakeholders can interact with, evaluate, and discuss ideas before a final product is built.
 
-## Purposes
+A prototype is one manifestation of a design that allows stakeholders to experience aspects of the system and provide feedback. Prototypes can vary from simple sketches to software systems that closely resemble the final product.
 
-- Test ideas cheaply.
-- Compare alternatives.
-- Reveal usability problems.
-- Communicate design intent.
-- Support stakeholder feedback.
+Prototyping is a central activity in interaction design because evaluation and feedback are essential throughout the design process. It helps designers explore ideas, communicate concepts, test alternatives, and identify problems early.
 
-## Design Implication
+## Why Prototype?
 
-Prototype fidelity should match question being asked. Early questions often need quick low-fidelity prototypes, not polished screens.
+Prototypes help to:
+
+- Support evaluation and feedback
+- Allow stakeholders to see, hold, and interact with design ideas
+- Improve communication among team members
+- Test concepts before implementation
+- Encourage reflection and discussion
+- Compare alternative designs
+- Answer design questions before development begins
+
+## What Can a Prototype Be?
+
+In interaction design, a prototype can take many forms, including:
+
+- Screen sketches
+- Storyboards
+- PowerPoint presentations
+- Videos simulating system use
+- Physical models
+- Electronic mock-ups
+- Animations
+- Software with limited functionality

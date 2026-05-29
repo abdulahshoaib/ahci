@@ -11,8 +11,6 @@ Week 8 covers designing with people, participatory methods, prototyping, concept
 ## Topics
 
 - [Designing with or for People](designing-with-or-for-people/)
-  - [Co-design and Participatory Design](designing-with-or-for-people/co-design-participatory-design/)
-  - [Community-Based Design](designing-with-or-for-people/community-based-design/)
 - [Prototyping Overview](prototyping-overview/)
 - [Types of Prototypes](types-of-prototypes/)
   - [Low-Fidelity Prototyping](types-of-prototypes/low-fidelity-prototyping/)
@@ -21,7 +19,7 @@ Week 8 covers designing with people, participatory methods, prototyping, concept
     - [Index Card Prototyping](types-of-prototypes/low-fidelity-prototyping/index-card-prototyping/)
     - [Wizard-of-Oz Prototyping](types-of-prototypes/low-fidelity-prototyping/wizard-of-oz-prototyping/)
   - [High-Fidelity Prototyping](types-of-prototypes/high-fidelity-prototyping/)
-- [Horizontal vs Vertical Prototypes](horizontal-vs-vertical-prototypes/)
+- [Prototyping Compromises](horizontal-vs-vertical-prototypes/)
 - [Conceptual Design](conceptual-design/)
 - [Interface Metaphors](interface-metaphors/)
 - [Wireframes](wireframes/)
