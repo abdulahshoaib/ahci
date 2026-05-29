@@ -12,6 +12,16 @@ Evaluation methods can be divided into two main categories:
 
 Both approaches are often used together to obtain a complete picture of usability and user experience. Quantitative methods tell us **what happened**, while qualitative methods help explain **why it happened**.
 
+```mermaid
+flowchart TD
+    T["Quantitative vs Qualitative Evaluation"]
+    T --> S1["Quantitative Evaluation"]
+    T --> S2["Qualitative Evaluation"]
+    T --> S3["Think-Aloud Protocol"]
+    T --> S4["Comparison"]
+    T --> S5["Using Both Together"]
+```
+
 ## Quantitative Evaluation
 
 Quantitative evaluation uses numerical measurements to assess system performance and usability.

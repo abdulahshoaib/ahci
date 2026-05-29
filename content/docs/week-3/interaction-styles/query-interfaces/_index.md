@@ -14,6 +14,15 @@ There are two main forms of query interfaces:
 - Question/Answer Interfaces
 - Query Languages
 
+```mermaid
+flowchart TD
+    T["Query Interfaces"]
+    T --> S1["Question/Answer Interfaces"]
+    T --> S2["Query Languages"]
+    T --> S3["Advantages"]
+    T --> S4["Disadvantages"]
+```
+
 ## Question/Answer Interfaces
 
 In a question/answer interface, the user is guided through the interaction by a series of questions.

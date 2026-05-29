@@ -11,6 +11,16 @@ Typically, standard index cards (3 × 5 inches) are used, with each card represe
 
 During evaluation, designers and stakeholders can step through the cards in sequence to demonstrate tasks and workflows.
 
+```mermaid
+flowchart TD
+    T["Index Card Prototyping"]
+    T --> S1["How It Works"]
+    T --> S2["Characteristics"]
+    T --> S3["Benefits"]
+    T --> S4["Example: Food Delivery App"]
+    T --> S5["Example: ATM System"]
+```
+
 ## How It Works
 
 1. Create individual cards representing interface elements or screens.

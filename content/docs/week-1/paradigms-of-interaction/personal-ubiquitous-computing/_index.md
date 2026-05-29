@@ -5,6 +5,13 @@ weight: 4
 
 # Personal and Ubiquitous Computing
 
+```mermaid
+flowchart TD
+    T["Personal and Ubiquitous Computing"]
+    T --> S1["Personal Computing"]
+    T --> S2["Ubiquitous Computing"]
+```
+
 ## Personal Computing
 
 Personal computing refers to computers designed for individual users instead of large organizations or shared systems.

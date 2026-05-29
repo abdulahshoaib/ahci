@@ -14,6 +14,21 @@ A successful design balances both. Too much functionality can create clutter and
 
 The goal is not to remove as much as possible, but to remove only what does not help the user.
 
+```mermaid
+flowchart TD
+    T["Minimalism vs Functionality"]
+    T --> S1["Minimalist Design"]
+    T --> S2["Excessive Minimalism"]
+    T --> S3["Functional Design"]
+    T --> S4["Excessive Functionality"]
+    T --> S5["The Trade-Off"]
+    T --> S6["Example: Search Interface"]
+    T --> S7["Progressive Disclosure"]
+    T --> S8["Common Minimalism Mistakes"]
+    T --> S9["Common Functionality Mistakes"]
+    T --> S10["Finding the Right Balance"]
+```
+
 ## Minimalist Design
 
 Minimalist interfaces emphasize:

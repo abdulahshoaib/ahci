@@ -7,6 +7,19 @@ weight: 1
 
 The design process is used to create interactive systems that satisfy user needs and achieve design goals. It starts by identifying the difference between what currently exists and what users actually need.
 
+```mermaid
+flowchart TD
+    T["Design Process"]
+    T --> S1["Requirements"]
+    T --> S2["Analysis"]
+    T --> S3["Design"]
+    T --> S4["Prototyping"]
+    T --> S5["Evaluation"]
+    T --> S6["Iteration"]
+    T --> S7["Implementation and Deployment"]
+    T --> S8["Design Trade-Offs"]
+```
+
 ## Requirements
 
 Identify:

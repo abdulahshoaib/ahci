@@ -11,6 +11,15 @@ The concept emphasizes that human thinking is influenced by bodily actions and e
 
 Embodied interaction suggests that cognition is not limited to the mind alone but is closely connected to physical activity and environmental interaction.
 
+```mermaid
+flowchart TD
+    T["Embodied Interaction"]
+    T --> S1["Characteristics"]
+    T --> S2["Examples"]
+    T --> S3["Importance in HCI"]
+    T --> S4["Design Implications"]
+```
+
 ## Characteristics
 
 - Involves interaction with physical and social environments.

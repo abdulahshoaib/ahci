@@ -9,6 +9,16 @@ params:
 
 Usability principles are general design principles that guide designers in creating systems that are effective, efficient, and satisfying to use.
 
+```mermaid
+flowchart TD
+    T["Usability Principles"]
+    T --> S1["Easier to learn"]
+    T --> S2["Easier to use"]
+    T --> S3["More efficient"]
+    T --> S4["More flexible"]
+    T --> S5["More supportive of users during interaction"]
+```
+
 They provide a framework for evaluating and improving usability rather than prescribing specific interface solutions.
 
 The three primary usability principles are:

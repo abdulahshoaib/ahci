@@ -19,6 +19,14 @@ Low-fidelity prototypes often rely heavily on sketching because sketches are:
 
 Designers do not need advanced drawing skills to create effective sketches. Simple shapes, symbols, and labels are usually sufficient to represent interface elements and interactions.
 
+```mermaid
+flowchart TD
+    T["Sketching Techniques"]
+    T --> S1["Common Elements in Sketches"]
+    T --> S2["Benefits of Sketching"]
+    T --> S3["Example Sketch"]
+```
+
 ## Common Elements in Sketches
 
 - Rectangles for screens or windows

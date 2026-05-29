@@ -13,6 +13,22 @@ Best practices are general guidelines that help designers create interfaces that
 
 The purpose of UX patterns is to reduce learning effort by allowing users to interact with familiar and predictable interfaces.
 
+```mermaid
+flowchart TD
+    T["Good UX Patterns and Best Practices"]
+    T --> S1["Clear Navigation"]
+    T --> S2["Breadcrumb Navigation"]
+    T --> S3["Search Functionality"]
+    T --> S4["Progressive Disclosure"]
+    T --> S5["Visual Hierarchy"]
+    T --> S6["Consistent Design"]
+    T --> S7["Clear Call-to-Action (CTA)"]
+    T --> S8["Immediate Feedback"]
+    T --> S9["Error Prevention"]
+    T --> S10["Helpful Error Messages"]
+    T --> Sx["More sections"]
+```
+
 ## Clear Navigation
 
 Users should always know:

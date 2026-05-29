@@ -9,6 +9,14 @@ Observation and ethnography are data gathering techniques used to understand wha
 
 They help researchers understand users, tasks, environments, interactions, and work practices.
 
+```mermaid
+flowchart TD
+    T["Observation and Ethnography"]
+    T --> S1["Observation"]
+    T --> S2["Ethnography"]
+    T --> S3["Choosing Observation Techniques"]
+```
+
 ## Observation
 
 Observation involves watching users, their activities, and their environment.

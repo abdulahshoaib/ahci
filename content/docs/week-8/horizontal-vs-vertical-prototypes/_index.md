@@ -9,6 +9,15 @@ Prototypes are created to explore, test, and evaluate design ideas rather than s
 
 When interpreting prototype results, it is important to understand what aspects of the design are fully represented and what aspects have been simplified.
 
+```mermaid
+flowchart TD
+    T["Prototype Compromises"]
+    T --> S1["Horizontal Prototypes"]
+    T --> S2["Vertical Prototypes"]
+    T --> S3["Robustness vs. Changeability"]
+    T --> S4["Important Consideration"]
+```
+
 ## Horizontal Prototypes
 
 A horizontal prototype provides a broad view of the system by covering many features and interface areas, but with limited detail or functionality.

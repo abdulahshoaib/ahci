@@ -8,6 +8,13 @@ params:
 
 Week 5 covers discovering requirements for interactive systems. Focus is on understanding users, tasks, environments, data, usability goals, and methods for collecting design evidence.
 
+```mermaid
+flowchart TD
+    T["Week 5"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Discovering Requirements](discovering-requirements/)

@@ -7,6 +7,14 @@ weight: 1
 
 Grouping and alignment are fundamental screen layout principles that help users understand information quickly and reduce cognitive effort.
 
+```mermaid
+flowchart TD
+    T["Grouping and Alignment"]
+    T --> S1["Grouping"]
+    T --> S2["Alignment"]
+    T --> S3["Relationship Between Grouping and Alignment"]
+```
+
 ## Grouping
 
 Grouping means placing related items together and separating unrelated items.

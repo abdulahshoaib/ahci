@@ -21,6 +21,15 @@ Menus are often organized hierarchically, with related options grouped together.
 
 Menus are considered a restricted form of a full WIMP interface.
 
+```mermaid
+flowchart TD
+    T["Menus"]
+    T --> S1["Characteristics"]
+    T --> S2["Advantages"]
+    T --> S3["Disadvantages"]
+    T --> S4["Design Considerations"]
+```
+
 ## Characteristics
 
 - Options are visible on the screen

@@ -7,6 +7,16 @@ weight: 1
 
 Interaction design is increasingly moving from designing *for* people to designing *with* people. Instead of treating users only as sources of requirements, modern design approaches involve stakeholders directly in the design process.
 
+```mermaid
+flowchart TD
+    T["Designing with or for People"]
+    T --> S1["Stakeholder Engagement"]
+    T --> S2["Co-Design"]
+    T --> S3["Participatory Design"]
+    T --> S4["Community-Based Design"]
+    T --> S5["Why Design With People?"]
+```
+
 ## Stakeholder Engagement
 
 Traditional design often views stakeholder involvement as a one-way process where designers gather information and make decisions.

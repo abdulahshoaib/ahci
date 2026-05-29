@@ -8,6 +8,13 @@ params:
 
 Week 10 focuses on practical interaction design basics: user focus, navigation, layout, controls, presentation, aesthetics, localisation, and iterative prototyping.
 
+```mermaid
+flowchart TD
+    T["Week 10"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Interaction Design Basics](interaction-design-basics/)

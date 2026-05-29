@@ -27,6 +27,15 @@ A website may be visually attractive and technically functional, but if users do
 
 Many conversion and engagement problems are caused by poor UX design rather than poor products or services.
 
+```mermaid
+flowchart TD
+    T["Conversion and Engagement Issues"]
+    T --> S1["Causes of Low Conversion and Engagement"]
+    T --> S2["Signs of Conversion Problems"]
+    T --> S3["Signs of Engagement Problems"]
+    T --> S4["Improving Conversion and Engagement"]
+```
+
 ## Causes of Low Conversion and Engagement
 
 ### Unclear Value Proposition

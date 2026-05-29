@@ -7,6 +7,15 @@ weight: 6
 
 Learning involves the accumulation of knowledge and skills and relies heavily on memory.
 
+```mermaid
+flowchart TD
+    T["Learning"]
+    T --> S1["Types of Learning"]
+    T --> S2["Technology and Learning"]
+    T --> S3["Learning by Doing"]
+    T --> S4["Design Implications"]
+```
+
 ## Types of Learning
 
 ### Incidental Learning

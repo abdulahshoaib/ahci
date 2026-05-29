@@ -16,6 +16,16 @@ A storyboard helps designers understand:
 - The context in which interaction occurs
 - The system's responses to user actions
 
+```mermaid
+flowchart TD
+    T["Storyboards"]
+    T --> S1["Elements of a Storyboard"]
+    T --> S2["Benefits of Storyboards"]
+    T --> S3["Example 1: Food Delivery App"]
+    T --> S4["Example 2: ATM Withdrawal"]
+    T --> S5["Example 3: University LMS"]
+```
+
 ## Elements of a Storyboard
 
 Each storyboard panel typically includes:

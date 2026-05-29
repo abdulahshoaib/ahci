@@ -11,6 +11,15 @@ Users rely on mental models to make inferences and decide how to interact with a
 
 Craik (1943) described mental models as internal constructions of aspects of the external world that allow people to make predictions. Mental models involve both conscious and unconscious processes and often make use of imagery and analogies.
 
+```mermaid
+flowchart TD
+    T["Mental Models"]
+    T --> S1["Deep vs Shallow Mental Models"]
+    T --> S2["Everyday Reasoning and Mental Models"]
+    T --> S3["Erroneous Mental Models"]
+    T --> S4["Supporting Better Mental Models"]
+```
+
 ## Deep vs Shallow Mental Models
 
 ### Shallow Mental Model

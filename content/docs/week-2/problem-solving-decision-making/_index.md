@@ -9,6 +9,16 @@ Problem solving, planning, reasoning, and decision making are cognitive processe
 
 These activities often involve conscious thought, discussions with others, or the use of external aids such as maps, books, notes, and diagrams. People may work through different scenarios, compare alternatives, and evaluate which option is most suitable.
 
+```mermaid
+flowchart TD
+    T["Problem Solving and Decision Making"]
+    T --> S1["Problem Solving"]
+    T --> S2["Planning"]
+    T --> S3["Reasoning"]
+    T --> S4["Decision Making"]
+    T --> S5["Design Implications"]
+```
+
 ## Problem Solving
 
 Problem solving involves finding a solution to a task or situation.

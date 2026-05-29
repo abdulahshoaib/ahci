@@ -11,6 +11,17 @@ They help designers understand user activities, goals, and interactions within a
 
 Scenarios bring requirements to life by showing how a product may be used in practice.
 
+```mermaid
+flowchart TD
+    T["Scenarios"]
+    T --> S1["Characteristics"]
+    T --> S2["Purpose"]
+    T --> S3["Forms of Scenarios"]
+    T --> S4["Example Scenario"]
+    T --> S5["Scenarios and Requirements"]
+    T --> S6["Scenarios and Personas"]
+```
+
 ## Characteristics
 
 | Characteristic | Description |

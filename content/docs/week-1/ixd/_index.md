@@ -19,6 +19,16 @@ Interaction design is multidisciplinary and draws knowledge from:
 
 The goal is to create systems that match user needs, behaviors, and expectations.
 
+```mermaid
+flowchart TD
+    T["Interaction Design"]
+    T --> S1["Users"]
+    T --> S2["Tasks"]
+    T --> S3["Context"]
+    T --> S4["Goals"]
+    T --> S5["System Behavior"]
+```
+
 ## What is Interaction Design?
 
 Interaction design refers to:

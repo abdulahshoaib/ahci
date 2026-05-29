@@ -9,6 +9,16 @@ User and environment requirements focus on who will use the system and the condi
 
 Understanding both helps designers create products that fit users' needs and their real-world context of use.
 
+```mermaid
+flowchart TD
+    T["User and Environment Requirements"]
+    T --> S1["User Requirements"]
+    T --> S2["Types of Users"]
+    T --> S3["User Profiles"]
+    T --> S4["Environment Requirements"]
+    T --> S5["Importance of User and Environment Requirements"]
+```
+
 ## User Requirements
 
 User requirements describe the characteristics, abilities, and needs of the people who will use the system.

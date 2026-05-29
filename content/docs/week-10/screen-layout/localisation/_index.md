@@ -25,6 +25,14 @@ For example, changing a system from English to another language may affect:
 - Navigation order
 - Text alignment
 
+```mermaid
+flowchart TD
+    T["Localisation"]
+    T --> S1["Internationalisation"]
+    T --> S2["Globalisation Challenges"]
+    T --> S3["Goal of Localisation"]
+```
+
 ## Internationalisation
 
 Internationalisation is the process of designing a system so that it can be easily adapted for different languages and cultures.

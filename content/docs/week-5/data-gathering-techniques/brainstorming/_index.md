@@ -11,6 +11,14 @@ The goal is to produce a large number of ideas without immediately judging or ev
 
 Brainstorming helps teams think creatively about user needs, problems, and potential solutions.
 
+```mermaid
+flowchart TD
+    T["Brainstorming"]
+    T --> S1["Guidelines for Effective Brainstorming"]
+    T --> S2["Important Principles"]
+    T --> S3["Benefits"]
+```
+
 ## Guidelines for Effective Brainstorming
 
 | Guideline | Description |

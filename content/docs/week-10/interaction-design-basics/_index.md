@@ -9,6 +9,18 @@ params:
 
 Interaction Design (IxD) focuses on designing interactive systems that help users achieve their goals effectively and efficiently.
 
+```mermaid
+flowchart TD
+    T["Interaction Design Basics"]
+    T --> S1["Users and their needs"]
+    T --> S2["Interactions between users and systems"]
+    T --> S3["User experience"]
+    T --> S4["Navigation and task completion"]
+    T --> S5["System responses to user actions"]
+    T --> S6["Technology and its capabilities"]
+    T --> S7["People and their behaviours, abilities, and limitations"]
+```
+
 The aim is not only to design interfaces but also to design the interactions between people and technology. Good interaction design ensures that users can understand a system, navigate it easily, and complete tasks successfully.
 
 Interaction design is concerned with:

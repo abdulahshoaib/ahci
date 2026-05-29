@@ -11,6 +11,16 @@ It examines the cognitive benefits of external representations, the processes in
 
 External cognition also explores how technology can be designed to support complex activities such as learning, problem solving, and decision making.
 
+```mermaid
+flowchart TD
+    T["External Cognition"]
+    T --> S1["Externalizing to Reduce Memory Load"]
+    T --> S2["Computational Offloading"]
+    T --> S3["Annotation"]
+    T --> S4["Cognitive Tracing"]
+    T --> S5["Design Implications"]
+```
+
 ## Externalizing to Reduce Memory Load
 
 People often use external representations to reduce the amount of information they must remember.

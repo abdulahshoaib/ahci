@@ -9,6 +9,16 @@ Error prevention and recovery are fundamental usability principles that help use
 
 Good interface design assumes that users will make errors. Instead of blaming users, systems should be designed to minimize errors and provide effective recovery mechanisms.
 
+```mermaid
+flowchart TD
+    T["Error Prevention and Recovery"]
+    T --> S1["Error Prevention"]
+    T --> S2["Error Recovery"]
+    T --> S3["Characteristics of Good Error Messages"]
+    T --> S4["Benefits of Error Prevention and Recovery"]
+    T --> S5["Summary Table"]
+```
+
 ## Error Prevention
 
 Error prevention focuses on stopping mistakes before they happen.

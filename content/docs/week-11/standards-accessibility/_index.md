@@ -18,6 +18,17 @@ Standards typically have:
 
 Unlike guidelines and principles, standards are often mandatory.
 
+```mermaid
+flowchart TD
+    T["Standards and Accessibility"]
+    T --> S1["Why Standards Exist"]
+    T --> S2["Characteristics of Standards"]
+    T --> S3["Examples of Standards"]
+    T --> S4["Accessibility Standards"]
+    T --> S5["Standards vs Other Design Rules"]
+    T --> S6["Why Not Use Standards for Everything?"]
+```
+
 ## Why Standards Exist
 
 Standards help ensure that systems:

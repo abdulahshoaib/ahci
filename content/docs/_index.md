@@ -2,6 +2,16 @@
 
 These notes cover Applied Human-Computer Interaction from foundations to requirements, prototyping, design rules, usability goals, bad design analysis, and evaluation methods.
 
+```mermaid
+flowchart TD
+    T["Course Notes"]
+    T --> S1["Start Here"]
+    T --> S2["Topic Map"]
+    T --> S3["How To Study"]
+    T --> S4["Key Questions"]
+    T --> S5["Full Week List"]
+```
+
 ## Start Here
 
 <div class="week-grid">

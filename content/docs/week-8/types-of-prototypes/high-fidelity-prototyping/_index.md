@@ -11,6 +11,16 @@ Unlike low-fidelity prototypes, high-fidelity prototypes look and behave much mo
 
 High-fidelity prototypes can be created by integrating existing hardware and software components to simulate the intended product.
 
+```mermaid
+flowchart TD
+    T["High-Fidelity Prototyping"]
+    T --> S1["Characteristics"]
+    T --> S2["Benefits"]
+    T --> S3["Common Forms"]
+    T --> S4["Examples"]
+    T --> S5["Limitations"]
+```
+
 ## Characteristics
 
 - Closely resembles the final product

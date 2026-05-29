@@ -9,6 +9,14 @@ While conceptual design focuses on what users can do with a product, concrete de
 
 Concrete design transforms abstract ideas and conceptual models into detailed interface designs that can be implemented and tested. It specifies the elements users will interact with and how those elements are organized.
 
+```mermaid
+flowchart TD
+    T["Concrete Design and Construction"]
+    T --> S1["Concrete Design"]
+    T --> S2["Construction"]
+    T --> S3["Concrete Design vs Construction"]
+```
+
 ## Concrete Design
 
 Concrete design defines details such as:

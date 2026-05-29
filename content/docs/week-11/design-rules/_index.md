@@ -17,6 +17,13 @@ Design rules differ in two important characteristics:
 | Authority | How strongly a rule must be followed |
 | Generality | How broadly a rule can be applied across systems |
 
+```mermaid
+flowchart TD
+    T["Design Rules"]
+    T --> S1["Authority"]
+    T --> S2["Generality"]
+```
+
 ## Authority
 
 Authority describes the strength of a rule and the consequences of ignoring it.

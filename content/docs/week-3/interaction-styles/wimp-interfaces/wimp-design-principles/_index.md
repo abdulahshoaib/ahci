@@ -7,6 +7,16 @@ weight: 3
 
 The design of WIMP interfaces should focus on making graphical elements easy to understand, organize, and use. Effective design improves usability and helps users perform tasks efficiently.
 
+```mermaid
+flowchart TD
+    T["WIMP Design Principles"]
+    T --> S1["Window Design"]
+    T --> S2["Icon Design"]
+    T --> S3["Menu Design"]
+    T --> S4["Pointer Design"]
+    T --> S5["General Principles"]
+```
+
 ## Window Design
 
 When designing windows, the type of interface should be selected carefully.

@@ -17,6 +17,14 @@ Information moves through different forms of representation, such as:
 - Written notes
 - Human memory
 
+```mermaid
+flowchart TD
+    T["Distributed Cognition"]
+    T --> S1["What It Examines"]
+    T --> S2["Example"]
+    T --> S3["Importance in HCI"]
+```
+
 ## What It Examines
 
 Distributed cognition focuses on:

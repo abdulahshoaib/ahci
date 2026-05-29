@@ -17,6 +17,15 @@ Commands may consist of:
 
 The user enters commands through a keyboard, and the system executes the requested operations.
 
+```mermaid
+flowchart TD
+    T["Command Line Interfaces"]
+    T --> S1["Characteristics"]
+    T --> S2["Advantages"]
+    T --> S3["Disadvantages"]
+    T --> S4["Typical Example"]
+```
+
 ## Characteristics
 
 - Provides direct access to system functionality

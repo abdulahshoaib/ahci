@@ -9,6 +9,16 @@ Usability goals and user experience (UX) goals are requirements that help ensure
 
 Different products may have different usability and UX requirements and may achieve them in different ways.
 
+```mermaid
+flowchart TD
+    T["Usability and UX Goals"]
+    T --> S1["Usability Goals"]
+    T --> S2["User Experience (UX) Goals"]
+    T --> S3["Trustworthiness as a Requirement"]
+    T --> S4["Usable Security"]
+    T --> S5["Relationship Between Usability and UX Goals"]
+```
+
 ## Usability Goals
 
 Usability goals focus on how effectively and efficiently users can interact with a system.

@@ -24,6 +24,22 @@ Common dark patterns include:
 - Hard-to-cancel subscriptions
 - Misdirection
 
+```mermaid
+flowchart TD
+    T["Dark Patterns in UI/UX"]
+    T --> S1["Hidden Costs"]
+    T --> S2["Forced Action"]
+    T --> S3["Trick Questions"]
+    T --> S4["Confirmshaming"]
+    T --> S5["Roach Motel"]
+    T --> S6["Sneak Into Basket"]
+    T --> S7["Disguised Advertisements"]
+    T --> S8["Privacy Manipulation"]
+    T --> S9["Misdirection"]
+    T --> S10["Hard-to-Find Privacy Settings"]
+    T --> Sx["More sections"]
+```
+
 ## Hidden Costs
 
 Additional fees are revealed only near the end of a process.

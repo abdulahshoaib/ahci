@@ -9,6 +9,14 @@ The concepts of the Gulf of Execution and Gulf of Evaluation were introduced by 
 
 A gulf represents a gap between the user and the system during interaction.
 
+```mermaid
+flowchart TD
+    T["Gulfs of Execution and Evaluation"]
+    T --> S1["Gulf of Execution"]
+    T --> S2["Gulf of Evaluation"]
+    T --> S3["Importance"]
+```
+
 ## Gulf of Execution
 
 The Gulf of Execution is the difference between what a user wants to do and what the system allows the user to do.

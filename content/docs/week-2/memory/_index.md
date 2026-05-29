@@ -14,6 +14,20 @@ Memory works through two main processes:
 
 People do not remember everything they encounter. Information is filtered and processed based on what receives attention.
 
+```mermaid
+flowchart TD
+    T["Memory"]
+    T --> S1["Encoding"]
+    T --> S2["Context and Memory"]
+    T --> S3["Visual Memory"]
+    T --> S4["Recognition vs Recall"]
+    T --> S5["Immediate Memory Capacity"]
+    T --> S6["Personal Information Management"]
+    T --> S7["Memory Load"]
+    T --> S8["Memory Aids"]
+    T --> S9["Design Implications"]
+```
+
 ## Encoding
 
 Encoding is the first stage of memory.

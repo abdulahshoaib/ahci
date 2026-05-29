@@ -7,6 +7,18 @@ weight: 1
 
 Understanding the problem space is one of the first activities in the interaction design process. Before designing a solution, designers must understand the existing situation, the users involved, and the reasons why change is needed.
 
+```mermaid
+flowchart TD
+    T["Understanding the Problem Space"]
+    T --> S1["What is the current user experience?"]
+    T --> S2["Why is a change necessary?"]
+    T --> S3["How will the proposed change improve the situation?"]
+    T --> S4["Clarifies the goals of the project"]
+    T --> S5["Identifies user needs and challenges"]
+    T --> S6["Prevents unsupported claims and incorrect assumptions"]
+    T --> S7["Provides a foundation for generating effective design soluti"]
+```
+
 The purpose is to explore questions such as:
 
 - What is the current user experience?

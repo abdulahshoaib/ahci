@@ -11,6 +11,18 @@ Navigation design focuses on helping users move through a system and find the in
 
 Navigation exists at different levels:
 
+```mermaid
+flowchart TD
+    T["Navigation Design"]
+    T --> S1["Local Navigation"]
+    T --> S2["Global Navigation"]
+    T --> S3["Levels of Navigation Design"]
+    T --> S4["Navigation Structures"]
+    T --> S5["Navigating Hierarchies"]
+    T --> S6["Goal Seeking"]
+    T --> S7["Wider Navigation Context"]
+```
+
 ## Local Navigation
 
 Local navigation focuses on a single screen or page.

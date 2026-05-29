@@ -13,6 +13,16 @@ Principles, standards, and guidelines are different types of design rules used t
 | Guidelines | Medium | Medium | Recommend good design practices |
 | Standards | High | Low | Define specific rules that must be followed |
 
+```mermaid
+flowchart TD
+    T["Principles, Standards, and Guidelines"]
+    T --> S1["Principles"]
+    T --> S2["Standards"]
+    T --> S3["Why Not Use Standards for Everything?"]
+    T --> S4["Guidelines"]
+    T --> S5["Relationship Between Principles, Standards, and Guidelines"]
+```
+
 ## Principles
 
 Principles are abstract design rules that describe general ideas about good design. They are not mandatory and do not specify exactly how a system should be implemented.

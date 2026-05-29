@@ -24,6 +24,14 @@ Scenarios are used to:
 - Explore interactions and user thinking
 - Reuse design knowledge throughout development
 
+```mermaid
+flowchart TD
+    T["Scenarios"]
+    T --> S1["Areas Explored by Scenarios"]
+    T --> S2["Characteristics of Scenarios"]
+    T --> S3["Example"]
+```
+
 ## Areas Explored by Scenarios
 
 ### Interaction

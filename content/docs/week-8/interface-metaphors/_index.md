@@ -9,6 +9,17 @@ An interface metaphor is a design concept that uses familiar real-world objects,
 
 By connecting new technology with concepts users already know, interface metaphors make interfaces easier to learn and use. They rely on existing knowledge to create more intuitive interactions.
 
+```mermaid
+flowchart TD
+    T["Interface Metaphors"]
+    T --> S1["Purpose of Interface Metaphors"]
+    T --> S2["How Interface Metaphors Work"]
+    T --> S3["Choosing an Interface Metaphor"]
+    T --> S4["Evaluating an Interface Metaphor"]
+    T --> S5["Examples of Interface Metaphors"]
+    T --> S6["Benefits"]
+```
+
 ## Purpose of Interface Metaphors
 
 Interface metaphors help users:

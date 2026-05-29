@@ -7,6 +7,13 @@ weight: 2
 
 User involvement is an important part of interaction design because users are the people who will ultimately use the product. Involving them throughout the design process helps ensure that the final system meets their needs and expectations.
 
+```mermaid
+flowchart TD
+    T["User Involvement"]
+    T --> S1["Importance of Involving Users"]
+    T --> S2["Degrees of User Involvement"]
+```
+
 ## Importance of Involving Users
 
 ### Expectation Management

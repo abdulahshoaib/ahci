@@ -22,6 +22,22 @@ Common causes of poor visual hierarchy include:
 - Multiple competing call-to-action buttons
 - Poor placement of important information
 
+```mermaid
+flowchart TD
+    T["Lack of Visual Hierarchy"]
+    T --> S1["Everything Looks Equally Important"]
+    T --> S2["Weak Heading Structure"]
+    T --> S3["Too Many Primary Actions"]
+    T --> S4["Poor Use of Size"]
+    T --> S5["Poor Use of Contrast"]
+    T --> S6["Too Many Highlighted Elements"]
+    T --> S7["Poor Spacing Between Elements"]
+    T --> S8["Hidden Primary Content"]
+    T --> S9["Weak Call-to-Action Hierarchy"]
+    T --> S10["Visual Hierarchy Techniques"]
+    T --> Sx["More sections"]
+```
+
 ## Everything Looks Equally Important
 
 When all elements have the same visual weight, users cannot determine where to focus.

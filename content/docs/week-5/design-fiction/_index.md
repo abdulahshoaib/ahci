@@ -11,6 +11,17 @@ It allows designers to explore possibilities, challenges, and implications of te
 
 Rather than focusing on current technical limitations, design fiction encourages thinking about how future technologies might affect people and society.
 
+```mermaid
+flowchart TD
+    T["Design Fiction"]
+    T --> S1["Purpose"]
+    T --> S2["Characteristics"]
+    T --> S3["Areas Explored"]
+    T --> S4["Fictional World"]
+    T --> S5["Design Fiction vs Scenarios"]
+    T --> S6["Benefits"]
+```
+
 ## Purpose
 
 Design fiction is used to:

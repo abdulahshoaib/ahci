@@ -5,6 +5,22 @@ weight: 6
 
 # The Computer and Interaction
 
+```mermaid
+flowchart TD
+    T["The Computer and Interaction"]
+    T --> S1["Overview"]
+    T --> S2["Input Devices"]
+    T --> S3["Output Devices"]
+    T --> S4["Memory and Storage"]
+    T --> S5["Processing"]
+    T --> S6["Networks"]
+    T --> S7["Interaction Devices"]
+    T --> S8["Virtual Reality and 3D Interaction"]
+    T --> S9["Physical Interaction and Sensors"]
+    T --> S10["Paper and Printing"]
+    T --> Sx["More sections"]
+```
+
 ## Overview
 
 A computer system consists of different components that affect how users interact with technology.

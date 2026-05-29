@@ -11,6 +11,13 @@ A prototype is one manifestation of a design that allows stakeholders to experie
 
 Prototyping is a central activity in interaction design because evaluation and feedback are essential throughout the design process. It helps designers explore ideas, communicate concepts, test alternatives, and identify problems early.
 
+```mermaid
+flowchart TD
+    T["Prototyping Overview"]
+    T --> S1["Why Prototype?"]
+    T --> S2["What Can a Prototype Be?"]
+```
+
 ## Why Prototype?
 
 Prototypes help to:

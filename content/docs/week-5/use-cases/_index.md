@@ -11,6 +11,18 @@ They focus primarily on **functional requirements** and describe how users and t
 
 Use cases can be used during both requirements gathering and design.
 
+```mermaid
+flowchart TD
+    T["Use Cases"]
+    T --> S1["Purpose"]
+    T --> S2["Characteristics"]
+    T --> S3["Types of Use Cases"]
+    T --> S4["Essential Use Case Example"]
+    T --> S5["Detailed Use Case Example"]
+    T --> S6["Alternative Courses"]
+    T --> S7["Benefits of Use Cases"]
+```
+
 ## Purpose
 
 Use cases help to:

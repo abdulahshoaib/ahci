@@ -7,6 +7,14 @@ weight: 10
 
 The Gulfs of Execution and Evaluation describe the gaps that exist between users and an interactive system. They help explain the effort required for users to perform tasks and understand system responses.
 
+```mermaid
+flowchart TD
+    T["Gulfs of Execution and Evaluation"]
+    T --> S1["Gulf of Execution"]
+    T --> S2["Gulf of Evaluation"]
+    T --> S3["Bridging the Gulfs"]
+```
+
 ## Gulf of Execution
 
 The Gulf of Execution is the gap between what a user wants to do and the actions that the system allows them to perform.

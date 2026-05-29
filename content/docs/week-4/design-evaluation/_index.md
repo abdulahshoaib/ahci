@@ -9,6 +9,17 @@ Evaluation is used to determine whether a design successfully meets user needs a
 
 Interaction design focuses on externally visible and measurable behavior. Designers are interested in how users interact with a system and whether they can achieve their goals effectively.
 
+```mermaid
+flowchart TD
+    T["Design Evaluation"]
+    T --> S1["Technical Feasibility"]
+    T --> S2["Evaluation with Users or Peers"]
+    T --> S3["Role of Prototypes"]
+    T --> S4["A/B Testing"]
+    T --> S5["Quality Thresholds"]
+    T --> S6["Importance"]
+```
+
 ## Technical Feasibility
 
 A design must be technically feasible as well as usable. Evaluation helps determine whether proposed solutions can realistically be implemented.

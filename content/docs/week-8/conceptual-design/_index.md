@@ -11,6 +11,16 @@ A conceptual model is an outline of what users can do with a product and the con
 
 At this stage, designers concentrate on the overall idea of how the system will work rather than specific details such as colors, layouts, or visual appearance.
 
+```mermaid
+flowchart TD
+    T["Conceptual Design"]
+    T --> S1["Purpose of Conceptual Design"]
+    T --> S2["Developing a Conceptual Model"]
+    T --> S3["Supporting Activities"]
+    T --> S4["Example"]
+    T --> S5["Conceptual Design vs. Concrete Design"]
+```
+
 ## Purpose of Conceptual Design
 
 Conceptual design helps designers:

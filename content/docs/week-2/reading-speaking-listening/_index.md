@@ -11,6 +11,13 @@ Many people prefer listening to reading, while reading is often faster than spea
 
 People with dyslexia may experience difficulties understanding and recognizing written words, making text-based interaction more challenging.
 
+```mermaid
+flowchart TD
+    T["Reading, Speaking, and Listening"]
+    T --> S1["Applications"]
+    T --> S2["Design Implications"]
+```
+
 ## Applications
 
 ### Voice User Interfaces (VUIs)

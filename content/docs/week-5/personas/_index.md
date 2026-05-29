@@ -11,6 +11,19 @@ They are not descriptions of specific individuals but are created from informati
 
 Personas bring requirements to life by making users more concrete and relatable.
 
+```mermaid
+flowchart TD
+    T["Personas"]
+    T --> S1["Purpose"]
+    T --> S2["Characteristics of Personas"]
+    T --> S3["What a Persona Contains"]
+    T --> S4["User Characteristics Captured"]
+    T --> S5["Good Personas"]
+    T --> S6["Primary Persona"]
+    T --> S7["Benefits of Personas"]
+    T --> S8["Example Persona"]
+```
+
 ## Purpose
 
 Personas help teams:

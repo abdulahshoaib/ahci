@@ -5,6 +5,14 @@ weight: 3
 
 # Constraints
 
+```mermaid
+flowchart TD
+    T["Constraints"]
+    T --> S1["Overview"]
+    T --> S2["Purpose of Constraints"]
+    T --> S3["Examples"]
+```
+
 ## Overview
 
 Constraints restrict the actions users can perform in a system. They help prevent mistakes and guide users toward correct actions.

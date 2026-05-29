@@ -9,6 +9,21 @@ params:
 
 UI (User Interface) design mistakes occur when interface elements make it harder for users to understand, navigate, or interact with a system. Even visually attractive interfaces can create a poor user experience if they fail to support user goals effectively.
 
+```mermaid
+flowchart TD
+    T["Common UI Design Mistakes"]
+    T --> S1["User confusion"]
+    T --> S2["Increased cognitive load"]
+    T --> S3["Slower task completion"]
+    T --> S4["Higher error rates"]
+    T --> S5["Frustration and abandonment"]
+    T --> S6["Reduced trust in the product"]
+    T --> S7["Poor Navigation and Information Architecture"]
+    T --> S8["Visual Clutter and Overloaded Interfaces"]
+    T --> S9["Readability and Typography Problems"]
+    T --> S10["Lack of Visual Hierarchy"]
+```
+
 Many UI problems arise because designers focus on aesthetics, trends, or technical implementation without considering how real users think and behave. A good interface should be intuitive, predictable, efficient, and accessible.
 
 Common UI design mistakes often lead to:

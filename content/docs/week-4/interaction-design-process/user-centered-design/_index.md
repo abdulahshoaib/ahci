@@ -9,6 +9,14 @@ User-Centered Design (UCD) is an approach to interaction design that places user
 
 A user-centered approach is based on three main principles.
 
+```mermaid
+flowchart TD
+    T["User-Centered Design (UCD)"]
+    T --> S1["Early Focus on Users and Tasks"]
+    T --> S2["Empirical Measurement"]
+    T --> S3["Iterative Design"]
+```
+
 ## Early Focus on Users and Tasks
 
 Designers study users from the beginning of the project rather than making assumptions about them.

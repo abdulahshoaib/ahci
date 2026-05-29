@@ -9,6 +9,14 @@ Norman’s Interaction Model describes interaction as a cycle between the user a
 
 The model is centered on the user's view of the interaction and consists of seven stages.
 
+```mermaid
+flowchart TD
+    T["Norman’s Interaction Model"]
+    T --> S1["Seven Stages of Interaction"]
+    T --> S2["Execution and Evaluation Loop"]
+    T --> S3["Using Norman’s Model"]
+```
+
 ## Seven Stages of Interaction
 
 ### 1. Establishing the Goal

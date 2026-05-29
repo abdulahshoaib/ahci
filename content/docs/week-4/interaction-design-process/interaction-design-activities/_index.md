@@ -7,6 +7,16 @@ weight: 4
 
 Interaction Design consists of four basic activities that are carried out throughout the design process. These activities are closely connected and often repeated in an iterative cycle.
 
+```mermaid
+flowchart TD
+    T["Interaction Design Activities"]
+    T --> S1["Discovering Requirements"]
+    T --> S2["Designing Alternatives"]
+    T --> S3["Prototyping Alternative Designs"]
+    T --> S4["Evaluating the Product and User Experience"]
+    T --> S5["Relationship Between the Activities"]
+```
+
 ## Discovering Requirements
 
 The first activity is to identify and understand the requirements for the product.

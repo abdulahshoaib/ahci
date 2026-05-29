@@ -11,6 +11,16 @@ A spreadsheet consists of a grid of cells where each cell can contain either a v
 
 The first spreadsheet application was **VisiCalc**, followed by **Lotus 1-2-3**. Today, **Microsoft Excel** is the most widely used spreadsheet application.
 
+```mermaid
+flowchart TD
+    T["Spreadsheets"]
+    T --> S1["Characteristics"]
+    T --> S2["How It Works"]
+    T --> S3["Advantages"]
+    T --> S4["Disadvantages"]
+    T --> S5["Applications"]
+```
+
 ## Characteristics
 
 - Organized as a grid of rows and columns

@@ -23,6 +23,22 @@ Common areas where consistency is important include:
 - Feedback messages
 - Interaction patterns
 
+```mermaid
+flowchart TD
+    T["Consistency in UI Design"]
+    T --> S1["Consistent Navigation"]
+    T --> S2["Consistent Buttons"]
+    T --> S3["Consistent Terminology"]
+    T --> S4["Consistent Icons"]
+    T --> S5["Consistent Layouts"]
+    T --> S6["Consistent Feedback"]
+    T --> S7["Consistent Colors"]
+    T --> S8["Internal Consistency vs External Consistency"]
+    T --> S9["Benefits of Consistency"]
+    T --> S10["Common Consistency Problems"]
+    T --> Sx["More sections"]
+```
+
 ## Consistent Navigation
 
 Navigation should remain the same throughout the system.

@@ -8,6 +8,13 @@ params:
 
 Week 13 studies bad website and UI design examples, common UX failures, dark patterns, and best practices for usable, ethical, and effective interfaces.
 
+```mermaid
+flowchart TD
+    T["Week 13"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Bad Website Design Examples](bad-website-design-examples/)

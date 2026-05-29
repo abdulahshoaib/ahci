@@ -29,6 +29,16 @@ A persona may include:
 - Goals and concerns
 - Physical abilities or limitations
 
+```mermaid
+flowchart TD
+    T["Personas"]
+    T --> S1["User Group"]
+    T --> S2["Persona Details"]
+    T --> S3["Goals"]
+    T --> S4["Constraints"]
+    T --> S5["Design Decisions"]
+```
+
 ## Example Persona
 
 **Betty**

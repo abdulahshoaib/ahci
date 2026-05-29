@@ -9,6 +9,14 @@ Generating alternative designs is a key activity in interaction design. Instead 
 
 Humans naturally tend to stick with familiar solutions. Considering alternatives helps reveal designs that may better satisfy user needs and project goals.
 
+```mermaid
+flowchart TD
+    T["Alternative Designs"]
+    T --> S1["Sources of Alternative Designs"]
+    T --> S2["Constraints and Trade-Offs"]
+    T --> S3["Importance"]
+```
+
 ## Sources of Alternative Designs
 
 ### Flair and Creativity

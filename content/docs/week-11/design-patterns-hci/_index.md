@@ -13,6 +13,18 @@ Instead of solving the same design problem from scratch every time, designers ca
 
 A design pattern is not a complete design. It is a general solution that can be adapted to different situations.
 
+```mermaid
+flowchart TD
+    T["Design Patterns in HCI"]
+    T --> S1["What is a Design Pattern?"]
+    T --> S2["Characteristics of Design Patterns"]
+    T --> S3["Why Design Patterns are Used"]
+    T --> S4["Design Patterns and Usability"]
+    T --> S5["Origins of Design Patterns"]
+    T --> S6["Design Patterns vs Other Design Rules"]
+    T --> S7["Benefits of Design Patterns"]
+```
+
 ## What is a Design Pattern?
 
 A design pattern consists of three main elements:

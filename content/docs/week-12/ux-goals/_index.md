@@ -9,6 +9,22 @@ User Experience (UX) goals focus on how users feel when interacting with a syste
 
 When designing an interactive system, it is important to consider not only what users can do, but also how they feel while doing it.
 
+```mermaid
+flowchart TD
+    T["User Experience (UX) Goals"]
+    T --> S1["Common UX Goals"]
+    T --> S2["Enjoyable"]
+    T --> S3["Engaging"]
+    T --> S4["Aesthetically Pleasing"]
+    T --> S5["Motivating"]
+    T --> S6["Satisfying"]
+    T --> S7["Fun"]
+    T --> S8["Rewarding"]
+    T --> S9["UX Goals vs Usability Goals"]
+    T --> S10["Example: Food Delivery Application"]
+    T --> Sx["More sections"]
+```
+
 ## Common UX Goals
 
 | Goal                   | Description                                                    |

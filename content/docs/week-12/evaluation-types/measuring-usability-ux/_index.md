@@ -11,6 +11,15 @@ Measuring usability and user experience helps determine whether an interactive s
 
 Usability is usually measured using objective and quantitative metrics, while UX is often measured using subjective and qualitative methods. In practice, both should be evaluated together to gain a complete understanding of the system.
 
+```mermaid
+flowchart TD
+    T["Measuring Usability and UX"]
+    T --> S1["Measuring Usability"]
+    T --> S2["Measuring User Experience (UX)"]
+    T --> S3["Example: Food Delivery App"]
+    T --> S4["Relationship Between Usability and UX"]
+```
+
 ## Measuring Usability
 
 Usability focuses on how effectively, efficiently, and accurately users can complete tasks.

@@ -14,6 +14,15 @@ Good UX improves:
 * Accessibility
 * Engagement
 
+```mermaid
+flowchart TD
+    T["User Experience (UX)"]
+    T --> S1["What is UX?"]
+    T --> S2["Good UX"]
+    T --> S3["Poor UX"]
+    T --> S4["UX vs Usability"]
+```
+
 ## What is UX?
 
 UX includes a user’s:

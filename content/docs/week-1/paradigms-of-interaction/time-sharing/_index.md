@@ -11,6 +11,15 @@ The computer rapidly switches between users, giving each user a small amount of 
 
 This made computing more interactive compared to batch processing.
 
+```mermaid
+flowchart TD
+    T["Time Sharing"]
+    T --> S1["Features of Time Sharing"]
+    T --> S2["Advantages"]
+    T --> S3["Disadvantages"]
+    T --> S4["Examples"]
+```
+
 ## Features of Time Sharing
 
 * Multiple users share one system

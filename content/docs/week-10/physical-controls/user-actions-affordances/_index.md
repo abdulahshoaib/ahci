@@ -30,6 +30,17 @@ Users should always be able to distinguish between:
 
 Consistent visual styles help users identify where they can click, type, or interact.
 
+```mermaid
+flowchart TD
+    T["User Actions and Affordances"]
+    T --> S1["Possible Actions"]
+    T --> S2["Clear Labels"]
+    T --> S3["Logical Order"]
+    T --> S4["Affordances"]
+    T --> S5["Active Elements"]
+    T --> S6["Passive Elements"]
+```
+
 ## Affordances
 
 Affordance is a concept that describes how the appearance of an object suggests the actions that can be performed on it.

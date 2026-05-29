@@ -10,6 +10,14 @@ params:
 
 Prototypes are commonly categorized as:
 
+```mermaid
+flowchart TD
+    T["Types of Prototyping"]
+    T --> S1["Low-Fidelity Prototypes"]
+    T --> S2["High-Fidelity Prototypes"]
+    T --> S3["Prototyping and Design"]
+```
+
 ## Low-Fidelity Prototypes
 
 Simple representations created using materials that differ from the final product, such as:

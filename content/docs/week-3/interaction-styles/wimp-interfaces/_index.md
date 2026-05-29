@@ -20,6 +20,16 @@ WIMP interfaces allow users to interact with systems through graphical elements 
 
 The WIMP style is based on direct manipulation, where users interact with visible objects and receive immediate feedback from the system.
 
+```mermaid
+flowchart TD
+    T["WIMP Interfaces"]
+    T --> S1["Characteristics"]
+    T --> S2["Interaction in WIMP Systems"]
+    T --> S3["Advantages"]
+    T --> S4["Disadvantages"]
+    T --> S5["Applications"]
+```
+
 ## Characteristics
 
 - Graphical rather than text-based interaction

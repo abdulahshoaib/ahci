@@ -7,6 +7,15 @@ weight: 1
 
 Wireframes follow a set of simple rules that keep attention focused on structure, functionality, and usability rather than visual design.
 
+```mermaid
+flowchart TD
+    T["Wireframe Design Rules"]
+    T --> S1["1. No Color"]
+    T --> S2["2. Use Placeholders"]
+    T --> S3["3. Use Standard Symbols"]
+    T --> S4["Purpose of These Rules"]
+```
+
 ## 1. No Color
 
 Wireframes should use only grayscale colors:

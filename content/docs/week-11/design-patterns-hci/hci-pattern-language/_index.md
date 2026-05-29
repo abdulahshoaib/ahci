@@ -11,6 +11,16 @@ Individual patterns do not exist in isolation. Instead, they are connected to ot
 
 A pattern language provides a structured way to reuse design knowledge across an entire system.
 
+```mermaid
+flowchart TD
+    T["HCI Pattern Language"]
+    T --> S1["Pattern Language Concept"]
+    T --> S2["HCI Design Patterns"]
+    T --> S3["Examples of Patterns"]
+    T --> S4["Characteristics of HCI Pattern Languages"]
+    T --> S5["Why Pattern Languages are Important"]
+```
+
 ## Pattern Language Concept
 
 A pattern language links multiple patterns together so that designers can move from high-level design decisions to detailed interface solutions.

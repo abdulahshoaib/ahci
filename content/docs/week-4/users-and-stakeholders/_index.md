@@ -7,6 +7,15 @@ weight: 2
 
 Identifying users and stakeholders is an important part of the interaction design process. Designers need to understand who will use the product and who may be affected by it.
 
+```mermaid
+flowchart TD
+    T["Users and Stakeholders"]
+    T --> S1["Who Are the Users?"]
+    T --> S2["Who Are the Stakeholders?"]
+    T --> S3["Importance of Identifying Stakeholders"]
+    T --> S4["Understanding Users Beyond Requirements"]
+```
+
 ## Who Are the Users?
 
 Identifying users is not always straightforward.

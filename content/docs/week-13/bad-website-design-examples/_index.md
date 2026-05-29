@@ -22,6 +22,22 @@ Common problems include:
 
 Each example below is rendered inside a sandboxed frame so the sample HTML is separated from the rest of the notes site.
 
+```mermaid
+flowchart TD
+    T["Bad Website Design Examples"]
+    T --> S1["1. Visuals Over Clarity"]
+    T --> S2["2. No Clear Reading Flow"]
+    T --> S3["3. Poor Readability"]
+    T --> S4["4. Lack of Visual Hierarchy"]
+    T --> S5["5. Content Overload"]
+    T --> S6["6. Extreme Minimalism"]
+    T --> S7["7. Inconsistent UI Elements"]
+    T --> S8["8. Weak Primary Action"]
+    T --> S9["9. Confusing Forms"]
+    T --> S10["10. Poor Mobile Touch Targets"]
+    T --> Sx["More sections"]
+```
+
 ## 1. Visuals Over Clarity
 
 Some websites focus too much on artistic presentation and forget the user's main goal.

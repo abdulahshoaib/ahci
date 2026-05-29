@@ -11,6 +11,16 @@ Scenarios focus on users, their goals, the context of use, and the sequence of a
 
 In interaction design, scenarios are often used alongside prototypes and storyboards to explore and refine design concepts.
 
+```mermaid
+flowchart TD
+    T["Scenarios and Design Exploration"]
+    T --> S1["Purpose of Scenarios"]
+    T --> S2["Components of a Scenario"]
+    T --> S3["Example Scenario"]
+    T --> S4["Role in Design Exploration"]
+    T --> S5["Relationship with Other Design Techniques"]
+```
+
 ## Purpose of Scenarios
 
 Scenarios help designers:

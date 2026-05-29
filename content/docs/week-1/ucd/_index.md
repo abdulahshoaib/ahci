@@ -15,6 +15,16 @@ The focus is on:
 * Accessibility
 * User feedback
 
+```mermaid
+flowchart TD
+    T["User-Centered Design (UCD)"]
+    T --> S1["What is UCD?"]
+    T --> S2["Main Principles of UCD"]
+    T --> S3["Benefits of UCD"]
+    T --> S4["UCD, IxD, and UX"]
+    T --> S5["Examples of UCD"]
+```
+
 ## What is UCD?
 
 UCD focuses on designing systems around the user instead of the technology.

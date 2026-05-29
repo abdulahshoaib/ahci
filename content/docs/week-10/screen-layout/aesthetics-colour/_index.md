@@ -9,6 +9,15 @@ Aesthetics refers to the visual appearance of an interface, while colour is one 
 
 Good visual design can increase user satisfaction and, in some cases, improve productivity. However, visual attractiveness should never reduce usability.
 
+```mermaid
+flowchart TD
+    T["Aesthetics and Colour"]
+    T --> S1["Aesthetics and Utility"]
+    T --> S2["Colour"]
+    T --> S3["3D Effects"]
+    T --> S4["Design Principle"]
+```
+
 ## Aesthetics and Utility
 
 An interface should be both attractive and useful.

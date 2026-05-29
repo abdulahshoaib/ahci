@@ -5,6 +5,16 @@ weight: 5
 
 # Affordances
 
+```mermaid
+flowchart TD
+    T["Affordances"]
+    T --> S1["Overview"]
+    T --> S2["Purpose of Affordances"]
+    T --> S3["Physical Affordances"]
+    T --> S4["Perceived Affordances"]
+    T --> S5["Examples"]
+```
+
 ## Overview
 
 Affordances are clues about how an object or interface should be used. They help users understand possible actions without instructions.

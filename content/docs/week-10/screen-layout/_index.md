@@ -9,6 +9,20 @@ params:
 
 Screen layout focuses on how information, controls, and interface elements are arranged on a screen. A good layout helps users quickly understand information, locate functions, and complete tasks efficiently.
 
+```mermaid
+flowchart TD
+    T["Screen Layout"]
+    T --> S1["Grouping and structure"]
+    T --> S2["Order of information"]
+    T --> S3["Alignment"]
+    T --> S4["Decoration"]
+    T --> S5["White space"]
+    T --> S6["What is the user trying to do?"]
+    T --> S7["What information do they need?"]
+    T --> S8["In what order do they need it?"]
+    T --> S9["What comparisons or decisions must they make?"]
+```
+
 The goal of screen layout is to present information in a clear, organized, and meaningful way. Poor layouts can confuse users, increase cognitive load, and make systems harder to use.
 
 Effective screen design follows the principle:

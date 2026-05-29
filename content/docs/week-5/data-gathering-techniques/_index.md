@@ -9,6 +9,21 @@ params:
 
 Data gathering is the process of collecting information from users, stakeholders, and existing systems to understand requirements and the context in which a product will be used.
 
+```mermaid
+flowchart TD
+    T["Data Gathering Techniques"]
+    T --> S1["Interviews"]
+    T --> S2["Questionnaires"]
+    T --> S3["Observation"]
+    T --> S4["Studying documentation"]
+    T --> S5["Researching similar products"]
+    T --> S6["Diaries"]
+    T --> S7["Surveys"]
+    T --> S8["Contextual inquiry"]
+    T --> S9["Ethnographic studies"]
+    T --> S10["Defining the goals of the study"]
+```
+
 The goal of data gathering is to obtain accurate and useful information that supports the discovery of requirements and helps designers make informed decisions.
 
 Requirements data can be gathered from multiple sources, including users, documentation, existing products, and real-world work environments.

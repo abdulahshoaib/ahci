@@ -7,6 +7,21 @@ weight: 3
 
 Information presentation focuses on how information is displayed so that users can understand, compare, and use it effectively.
 
+```mermaid
+flowchart TD
+    T["Information Presentation"]
+    T --> S1["What information users need"]
+    T --> S2["How users will compare information"]
+    T --> S3["The order in which information should appear"]
+    T --> S4["The most appropriate format for display"]
+    T --> S5["Text"]
+    T --> S6["Tables"]
+    T --> S7["Lists"]
+    T --> S8["Diagrams"]
+    T --> S9["Charts and graphs"]
+    T --> S10["A scatter plot is useful for showing relationships between v"]
+```
+
 The way information is presented should depend on the user's goals and the task being performed. Different presentation methods may be suitable for different types of information.
 
 When presenting information, designers should consider:

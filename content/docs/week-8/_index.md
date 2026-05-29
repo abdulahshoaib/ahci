@@ -8,6 +8,13 @@ params:
 
 Week 8 covers designing with people, participatory methods, prototyping, conceptual design, wireframes, and design exploration. Focus is moving from user understanding to visible, testable design ideas.
 
+```mermaid
+flowchart TD
+    T["Week 8"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Designing with or for People](designing-with-or-for-people/)

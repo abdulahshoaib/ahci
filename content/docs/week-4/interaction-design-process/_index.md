@@ -9,6 +9,17 @@ params:
 
 Interaction Design is the process of creating interactive products that help people achieve their goals effectively, efficiently, and satisfactorily. It focuses on understanding users, identifying their needs, generating design solutions, creating prototypes, and evaluating whether those solutions work well.
 
+```mermaid
+flowchart TD
+    T["Interaction Design Process"]
+    T --> S1["Understanding the problem space"]
+    T --> S2["Discovering user requirements"]
+    T --> S3["Designing alternative solutions"]
+    T --> S4["Building prototypes"]
+    T --> S5["Evaluating designs with users"]
+    T --> S6["Refining designs based on feedback"]
+```
+
 The process is user-focused, meaning that users and their goals remain central throughout development. Rather than designing based on assumptions, designers study real users, their tasks, and the environments in which they work.
 
 Interaction Design is not a linear activity. It involves continuous refinement through feedback, testing, and iteration. Designers often explore multiple solutions before selecting the most suitable one, balancing usability, user experience, technical feasibility, and project constraints.

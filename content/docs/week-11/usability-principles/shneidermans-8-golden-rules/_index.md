@@ -9,6 +9,21 @@ Shneiderman's 8 Golden Rules are broad design rules that help designers create u
 
 They act as a practical checklist for evaluating interface designs and improving usability.
 
+```mermaid
+flowchart TD
+    T["Shneiderman’s 8 Golden Rules"]
+    T --> S1["1. Strive for Consistency"]
+    T --> S2["2. Enable Frequent Users to Use Shortcuts"]
+    T --> S3["3. Offer Informative Feedback"]
+    T --> S4["4. Design Dialogs to Yield Closure"]
+    T --> S5["5. Offer Error Prevention and Simple Error Handling"]
+    T --> S6["6. Permit Easy Reversal of Actions"]
+    T --> S7["7. Support Internal Locus of Control"]
+    T --> S8["8. Reduce Short-Term Memory Load"]
+    T --> S9["Areas of Application"]
+    T --> S10["Benefits"]
+```
+
 ## 1. Strive for Consistency
 
 Keep interface elements, terminology, commands, layouts, and behaviors uniform throughout the system.

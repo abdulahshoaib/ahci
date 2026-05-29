@@ -23,6 +23,22 @@ Common mobile usability problems include:
 - Forms that are difficult to complete
 - Hidden or inaccessible functionality
 
+```mermaid
+flowchart TD
+    T["Mobile Responsiveness Issues"]
+    T --> S1["Content Wider Than the Screen"]
+    T --> S2["Small Touch Targets"]
+    T --> S3["Text That Is Too Small"]
+    T --> S4["Desktop Navigation on Mobile"]
+    T --> S5["Horizontal Scrolling"]
+    T --> S6["Images That Do Not Scale"]
+    T --> S7["Overlapping Elements"]
+    T --> S8["Difficult Mobile Forms"]
+    T --> S9["Hover-Only Interactions"]
+    T --> S10["Popups and Intrusive Elements"]
+    T --> Sx["More sections"]
+```
+
 ## Content Wider Than the Screen
 
 Content should fit within the width of the device.

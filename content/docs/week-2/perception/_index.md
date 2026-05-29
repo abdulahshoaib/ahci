@@ -9,6 +9,19 @@ Perception is the process by which information is acquired from the environment 
 
 In HCI, perception is important because users must be able to quickly recognize and understand information presented by an interface.
 
+```mermaid
+flowchart TD
+    T["Perception"]
+    T --> S1["Visual Perception"]
+    T --> S2["Grouping and Organization"]
+    T --> S3["Color Perception"]
+    T --> S4["Reading and Perception"]
+    T --> S5["Auditory Perception"]
+    T --> S6["Haptic Perception"]
+    T --> S7["White Space and Borders"]
+    T --> S8["Design Implications"]
+```
+
 ## Visual Perception
 
 Visual perception allows users to identify and interpret information displayed on a screen.

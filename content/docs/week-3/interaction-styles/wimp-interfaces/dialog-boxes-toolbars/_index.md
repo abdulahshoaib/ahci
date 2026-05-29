@@ -7,6 +7,14 @@ weight: 2
 
 Dialog Boxes and Toolbars are important components of WIMP interfaces that provide users with access to information, commands, and functionality.
 
+```mermaid
+flowchart TD
+    T["Dialog Boxes and Toolbars"]
+    T --> S1["Dialog Boxes"]
+    T --> S2["Toolbars"]
+    T --> S3["Design Implication"]
+```
+
 ## Dialog Boxes
 
 Dialog boxes are information windows that appear temporarily to inform users about important events or request information.

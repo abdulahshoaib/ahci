@@ -15,6 +15,14 @@ Consistent interfaces are easier to:
 
 Consistency reduces user confusion and improves usability.
 
+```mermaid
+flowchart TD
+    T["Consistency"]
+    T --> S1["Types of Consistency"]
+    T --> S2["Benefits of Consistency"]
+    T --> S3["Examples"]
+```
+
 ## Types of Consistency
 
 ### Internal Consistency

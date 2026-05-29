@@ -5,6 +5,18 @@ weight: 1
 
 # Discovering Requirements
 
+```mermaid
+flowchart TD
+    T["Discovering Requirements"]
+    T --> S1["Purpose"]
+    T --> S2["Why Requirements Matter"]
+    T --> S3["What is a Requirement?"]
+    T --> S4["Capturing Requirements"]
+    T --> S5["User Stories"]
+    T --> S6["Requirements Activity"]
+    T --> S7["Outcome of Requirement Discovery"]
+```
+
 ## Purpose
 
 Discovering requirements is the process of understanding the problem space and determining what a product should do, how it should behave, and how it should support its users.

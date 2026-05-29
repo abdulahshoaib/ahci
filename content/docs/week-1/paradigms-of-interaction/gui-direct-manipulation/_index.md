@@ -5,6 +5,13 @@ weight: 3
 
 # GUI and Direct Manipulation
 
+```mermaid
+flowchart TD
+    T["GUI and Direct Manipulation"]
+    T --> S1["Graphical User Interface (GUI)"]
+    T --> S2["Direct Manipulation"]
+```
+
 ## Graphical User Interface (GUI)
 
 A Graphical User Interface (GUI) allows users to interact with computers using visual elements instead of typing commands.

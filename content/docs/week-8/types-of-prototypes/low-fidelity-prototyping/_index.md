@@ -9,6 +9,21 @@ params:
 
 Low-fidelity prototyping is an early-stage prototyping approach that uses materials and representations that are different from the final product. Instead of creating a working system, designers use simple and inexpensive methods to explore ideas and gather feedback.
 
+```mermaid
+flowchart TD
+    T["LowFidelity Prototyping"]
+    T --> S1["Simple to create"]
+    T --> S2["Quick to modify"]
+    T --> S3["Inexpensive"]
+    T --> S4["Easy to discard and replace"]
+    T --> S5["Useful for exploring alternative designs"]
+    T --> S6["Screen sketches"]
+    T --> S7["Storyboards"]
+    T --> S8["Index cards"]
+    T --> S9["Sticky notes"]
+    T --> S10["WizardofOz prototypes"]
+```
+
 The main purpose of low-fidelity prototypes is to test concepts, workflows, and interactions before investing significant time and resources in development.
 
 Low-fidelity prototypes are:

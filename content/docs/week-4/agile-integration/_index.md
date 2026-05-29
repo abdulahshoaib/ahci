@@ -9,6 +9,13 @@ Interaction design activities often need to be integrated with lifecycle models 
 
 Successful integration requires careful planning so that design activities and development activities support each other throughout the project.
 
+```mermaid
+flowchart TD
+    T["Agile Integration"]
+    T --> S1["Interaction Design and Agile Development"]
+    T --> S2["Importance"]
+```
+
 ## Interaction Design and Agile Development
 
 Integrating interaction design with agile software development is considered promising because agile methods share several characteristics that support user-centered design.

@@ -8,6 +8,13 @@ params:
 
 Week 1 introduces the foundations of human-computer interaction. It covers how people interact with systems, what makes interaction usable, and which design principles help users understand and control technology.
 
+```mermaid
+flowchart TD
+    T["Week 1"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Interaction Design (IxD)](ixd/)

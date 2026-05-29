@@ -23,6 +23,13 @@ Design principles are based on:
 * Usability research
 * Common design practices
 
+```mermaid
+flowchart TD
+    T["Design Principles"]
+    T --> S1["Common Design Principles"]
+    T --> S2["Importance of Design Principles"]
+```
+
 ## Common Design Principles
 
 * Visibility

@@ -9,6 +9,16 @@ Understanding user needs is a fundamental part of interaction design. Designers 
 
 Identifying user needs is not simply a matter of asking users what they want. Users often do not know what is technologically possible and may find it difficult to express requirements for new systems.
 
+```mermaid
+flowchart TD
+    T["User Needs"]
+    T --> S1["Users Rarely Know What Is Possible"]
+    T --> S2["Exploring User Needs"]
+    T --> S3["Focus on Goals Rather Than Solutions"]
+    T --> S4["Improving Existing Activities"]
+    T --> S5["Role in Interaction Design"]
+```
+
 ## Users Rarely Know What Is Possible
 
 Designers should avoid relying solely on stakeholders to define requirements because users may be unaware of potential solutions and innovations.

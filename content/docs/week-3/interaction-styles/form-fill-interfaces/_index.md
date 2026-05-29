@@ -9,6 +9,16 @@ Form-Fill Interfaces are interaction styles primarily used for data entry and da
 
 Users place information in the appropriate locations on the screen, and the system processes the entered data.
 
+```mermaid
+flowchart TD
+    T["Form-Fill Interfaces"]
+    T --> S1["Characteristics"]
+    T --> S2["Requirements"]
+    T --> S3["Advantages"]
+    T --> S4["Disadvantages"]
+    T --> S5["Applications"]
+```
+
 ## Characteristics
 
 - Resemble traditional paper forms

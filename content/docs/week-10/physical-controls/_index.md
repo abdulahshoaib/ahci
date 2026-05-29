@@ -9,6 +9,21 @@ params:
 
 Physical controls are the hardware components that users interact with directly to operate a device. Unlike graphical interface elements on a screen, physical controls exist in the real world and can be touched, pressed, turned, or moved.
 
+```mermaid
+flowchart TD
+    T["Physical Controls"]
+    T --> S1["Buttons"]
+    T --> S2["Switches"]
+    T --> S3["Knobs"]
+    T --> S4["Dials"]
+    T --> S5["Sliders"]
+    T --> S6["Keypads"]
+    T --> S7["Grouping related controls together"]
+    T --> S8["Arranging controls in a logical order"]
+    T --> S9["Using colour and decoration appropriately"]
+    T --> S10["Maintaining clear alignment"]
+```
+
 Examples of physical controls include:
 
 - Buttons

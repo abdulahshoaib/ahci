@@ -13,6 +13,15 @@ Theo Mandel proposed a set of interface design rules that focus on creating syst
 
 These principles emphasize user freedom, minimizing cognitive effort, and maintaining predictable interactions across the interface.
 
+```mermaid
+flowchart TD
+    T["Theo Mandel’s Golden Rules"]
+    T --> S1["1. Place Users in Control"]
+    T --> S2["2. Reduce Users’ Memory Load"]
+    T --> S3["3. Make the Interface Consistent"]
+    T --> S4["Summary"]
+```
+
 ## 1. Place Users in Control
 
 Users should feel that they are directing the interaction rather than being controlled by the system.

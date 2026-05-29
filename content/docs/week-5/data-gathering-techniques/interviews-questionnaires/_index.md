@@ -7,6 +7,13 @@ weight: 1
 
 Interviews and questionnaires are commonly used data gathering techniques for understanding users, their needs, opinions, experiences, and requirements.
 
+```mermaid
+flowchart TD
+    T["Interviews and Questionnaires"]
+    T --> S1["Interviews"]
+    T --> S2["Questionnaires"]
+```
+
 ## Interviews
 
 An interview is a direct conversation between a researcher and participant used to gather detailed information.

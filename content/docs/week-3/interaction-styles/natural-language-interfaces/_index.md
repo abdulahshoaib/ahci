@@ -16,6 +16,15 @@ Natural Language Interfaces typically use:
 
 The system attempts to interpret the user's request and translate it into actions that can be performed.
 
+```mermaid
+flowchart TD
+    T["Natural Language Interfaces"]
+    T --> S1["Characteristics"]
+    T --> S2["Advantages"]
+    T --> S3["Problems"]
+    T --> S4["Common Solutions"]
+```
+
 ## Characteristics
 
 - Uses ordinary human language

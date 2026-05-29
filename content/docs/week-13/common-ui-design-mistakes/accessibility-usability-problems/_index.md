@@ -25,6 +25,22 @@ Common accessibility and usability problems include:
 - Non-accessible multimedia
 - Excessive cognitive load
 
+```mermaid
+flowchart TD
+    T["Accessibility and Usability Problems"]
+    T --> S1["Poor Color Contrast"]
+    T --> S2["Missing Alternative Text"]
+    T --> S3["Keyboard Navigation Problems"]
+    T --> S4["Unclear Labels and Instructions"]
+    T --> S5["Reliance on Color Alone"]
+    T --> S6["Poor Error Messages"]
+    T --> S7["Complex Forms"]
+    T --> S8["Inconsistent Interface Behavior"]
+    T --> S9["Non-Accessible Multimedia"]
+    T --> S10["Excessive Cognitive Load"]
+    T --> Sx["More sections"]
+```
+
 ## Poor Color Contrast
 
 Text should be clearly distinguishable from its background.

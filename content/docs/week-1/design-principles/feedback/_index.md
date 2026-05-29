@@ -15,6 +15,15 @@ Good feedback helps users understand:
 
 Feedback improves usability and reduces confusion.
 
+```mermaid
+flowchart TD
+    T["Feedback"]
+    T --> S1["User Action"]
+    T --> S2["System Response"]
+    T --> S3["Status Known"]
+    T --> S4["Recovery Supported"]
+```
+
 ## Examples
 
 ### Button Click

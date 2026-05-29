@@ -5,6 +5,14 @@ weight: 5
 
 # VR, AR, and Agent-Based Interfaces
 
+```mermaid
+flowchart TD
+    T["VR, AR, and Agent-Based Interfaces"]
+    T --> S1["Virtual Reality (VR)"]
+    T --> S2["Augmented Reality (AR)"]
+    T --> S3["Agent-Based Interfaces"]
+```
+
 ## Virtual Reality (VR)
 
 Virtual Reality (VR) creates a fully digital and immersive environment where users interact inside a computer-generated world.

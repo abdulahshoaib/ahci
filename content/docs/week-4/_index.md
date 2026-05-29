@@ -8,6 +8,13 @@ params:
 
 Week 4 covers the interaction design process: how designers understand problems, involve users, generate alternatives, evaluate designs, and connect HCI work with practical development workflows.
 
+```mermaid
+flowchart TD
+    T["Week 4"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Interaction Design Process](interaction-design-process/)

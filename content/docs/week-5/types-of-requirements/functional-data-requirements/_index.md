@@ -7,6 +7,14 @@ weight: 1
 
 Functional and data requirements describe what a system must do and the information it must handle.
 
+```mermaid
+flowchart TD
+    T["Functional and Data Requirements"]
+    T --> S1["Functional Requirements"]
+    T --> S2["Data Requirements"]
+    T --> S3["Relationship Between Functional and Data Requirements"]
+```
+
 ## Functional Requirements
 
 Functional requirements specify what the system should do.

@@ -8,6 +8,13 @@ params:
 
 Week 11 covers design rules: principles, standards, guidelines, usability rules, HCI patterns, accessibility, error recovery, consistency, feedback, and user-centered usability design.
 
+```mermaid
+flowchart TD
+    T["Week 11"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Design Rules](design-rules/)

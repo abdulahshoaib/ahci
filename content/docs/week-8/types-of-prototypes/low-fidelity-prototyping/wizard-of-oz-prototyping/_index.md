@@ -11,6 +11,18 @@ The person controlling the system is known as the "wizard." The wizard observes 
 
 This technique is commonly used during the early stages of design to understand user expectations and evaluate interactions before developing complex functionality.
 
+```mermaid
+flowchart TD
+    T["Wizard-of-Oz Prototyping"]
+    T --> S1["How It Works"]
+    T --> S2["Characteristics"]
+    T --> S3["Benefits"]
+    T --> S4["Example 1: Voice Assistant"]
+    T --> S5["Example 2: Customer Support Chatbot"]
+    T --> S6["Example 3: Smart Home System"]
+    T --> S7["Ethical Considerations"]
+```
+
 ## How It Works
 
 1. The user interacts with what appears to be a working system.

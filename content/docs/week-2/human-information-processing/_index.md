@@ -13,6 +13,16 @@ The process begins with information input through the senses such as vision, hea
 
 Human information processing is also influenced by emotions and individual differences. Factors such as stress, fatigue, age, experience, and physical abilities can affect how effectively users interact with a system.
 
+```mermaid
+flowchart TD
+    T["Human Information Processing"]
+    T --> S1["Input"]
+    T --> S2["Perception"]
+    T --> S3["Memory"]
+    T --> S4["Decision"]
+    T --> S5["Action"]
+```
+
 ## Example
 
 When using a navigation app:

@@ -8,6 +8,13 @@ params:
 
 Week 14 covers evaluation methods, usability testing, analytical inspection, predictive models, reliability, validity, and ethics.
 
+```mermaid
+flowchart TD
+    T["Week 14"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [Evaluation Basics](evaluation-basics/)

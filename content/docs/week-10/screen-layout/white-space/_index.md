@@ -19,6 +19,15 @@ White space is used to:
 - Improve readability
 - Highlight important information
 
+```mermaid
+flowchart TD
+    T["White Space"]
+    T --> S1["Space to Separate"]
+    T --> S2["Space to Structure"]
+    T --> S3["Space to Highlight"]
+    T --> S4["Benefits of White Space"]
+```
+
 ## Space to Separate
 
 White space can create clear boundaries between different groups of information, making the interface easier to understand.

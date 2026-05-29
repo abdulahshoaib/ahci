@@ -22,6 +22,22 @@ Common readability and typography problems include:
 - Center-aligned body text
 - Too many font styles
 
+```mermaid
+flowchart TD
+    T["Readability and Typography Problems"]
+    T --> S1["Small Font Sizes"]
+    T --> S2["Poor Color Contrast"]
+    T --> S3["Difficult-to-Read Fonts"]
+    T --> S4["Long Line Lengths"]
+    T --> S5["Large Blocks of Text"]
+    T --> S6["Poor Line Spacing"]
+    T --> S7["Inconsistent Typography"]
+    T --> S8["Excessive Use of Uppercase Text"]
+    T --> S9["Center-Aligned Body Text"]
+    T --> S10["Too Many Font Styles"]
+    T --> Sx["More sections"]
+```
+
 ## Small Font Sizes
 
 Text that is too small forces users to zoom in or strain their eyes.

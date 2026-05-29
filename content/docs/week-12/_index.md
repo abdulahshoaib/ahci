@@ -8,6 +8,13 @@ params:
 
 Week 12 covers user control, error prevention, usability and UX goals, evaluation types, measurement, and Theo Mandel's golden rules.
 
+```mermaid
+flowchart TD
+    T["Week 12"]
+    T --> S1["Topics"]
+    T --> S2["Learning Focus"]
+```
+
 ## Topics
 
 - [User Control and Error Prevention](user-control-error-prevention/)

@@ -7,6 +7,15 @@ weight: 1
 
 User control and error prevention are two important design goals in interactive systems. Users should feel that they are directing the system rather than being controlled by it, while the interface should be designed to minimize the possibility of mistakes and help users recover easily when errors occur. These ideas are emphasized in both Shneiderman’s Golden Rules and Norman’s design principles.
 
+```mermaid
+flowchart TD
+    T["User Control and Error Prevention"]
+    T --> S1["User Control"]
+    T --> S2["Error Prevention"]
+    T --> S3["Error Recovery"]
+    T --> S4["Relationship Between User Control and Error Prevention"]
+```
+
 ## User Control
 
 Users should always feel in charge of their actions and decisions while interacting with a system. Interfaces should provide flexibility, freedom, and predictable behavior.

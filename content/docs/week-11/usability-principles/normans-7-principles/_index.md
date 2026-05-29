@@ -9,6 +9,20 @@ Norman's 7 Principles provide practical guidance for designing systems that are 
 
 They focus on how users think, perceive, and interact with systems.
 
+```mermaid
+flowchart TD
+    T["Norman’s 7 Principles"]
+    T --> S1["1. Use Both Knowledge in the World and Knowledge in the Head"]
+    T --> S2["2. Simplify the Structure of Tasks"]
+    T --> S3["3. Make Things Visible: Bridge the Gulfs of Execution and Ev"]
+    T --> S4["4. Get the Mappings Right"]
+    T --> S5["5. Exploit the Power of Constraints, Both Natural and Artifi"]
+    T --> S6["6. Design for Error"]
+    T --> S7["7. When All Else Fails, Standardize"]
+    T --> S8["Norman's Principles by Category"]
+    T --> S9["Summary Table"]
+```
+
 ## 1. Use Both Knowledge in the World and Knowledge in the Head
 
 Designs should combine what users already know with information provided by the system.

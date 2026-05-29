@@ -9,6 +9,15 @@ A lifecycle model describes how interaction design activities are organized and 
 
 Interaction design lifecycle models are typically user-centered and emphasize continuous feedback, iteration, and improvement.
 
+```mermaid
+flowchart TD
+    T["Lifecycle Models"]
+    T --> S1["Simple Interaction Design Lifecycle Model"]
+    T --> S2["Google Design Sprints"]
+    T --> S3["Research in the Wild"]
+    T --> S4["Purpose of Lifecycle Models"]
+```
+
 ## Simple Interaction Design Lifecycle Model
 
 A simple interaction design lifecycle model exemplifies a user-centered design approach.

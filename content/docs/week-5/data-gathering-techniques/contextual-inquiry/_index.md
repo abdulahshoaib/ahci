@@ -9,6 +9,19 @@ Contextual Inquiry is a data gathering technique that involves observing and int
 
 It originated as part of Contextual Design but is also used independently to gather requirements.
 
+```mermaid
+flowchart TD
+    T["Contextual Inquiry"]
+    T --> S1["Purpose"]
+    T --> S2["Main Characteristics"]
+    T --> S3["Master–Apprentice Model"]
+    T --> S4["Four Principles of Contextual Inquiry"]
+    T --> S5["Cool Concepts"]
+    T --> S6["Interview Structure"]
+    T --> S7["After the Interview"]
+    T --> S8["Benefits"]
+```
+
 ## Purpose
 
 The goal of Contextual Inquiry is to understand how people perform activities in their everyday work or home environments.

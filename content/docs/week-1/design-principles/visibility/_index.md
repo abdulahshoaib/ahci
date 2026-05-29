@@ -15,6 +15,15 @@ Users should quickly know:
 
 Good visibility reduces confusion and improves usability.
 
+```mermaid
+flowchart TD
+    T["Visibility"]
+    T --> S1["Visible Controls"]
+    T --> S2["Visible Actions"]
+    T --> S3["Visible State"]
+    T --> S4["Less Confusion"]
+```
+
 ## Examples
 
 ### Elevator Controls

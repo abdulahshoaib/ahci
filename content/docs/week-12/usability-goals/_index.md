@@ -9,6 +9,21 @@ Usability goals describe how easy, effective, and efficient an interactive syste
 
 Usability is concerned with task performance and can often be measured objectively through observation, testing, and quantitative metrics.
 
+```mermaid
+flowchart TD
+    T["Usability Goals"]
+    T --> S1["Common Usability Goals"]
+    T --> S2["Effectiveness"]
+    T --> S3["Efficiency"]
+    T --> S4["Safety"]
+    T --> S5["Utility"]
+    T --> S6["Learnability"]
+    T --> S7["Memorability"]
+    T --> S8["Satisfaction"]
+    T --> S9["Measuring Usability Goals"]
+    T --> S10["Usability Goals in Practice"]
+```
+
 ## Common Usability Goals
 
 | Goal          | Description                                                                         |

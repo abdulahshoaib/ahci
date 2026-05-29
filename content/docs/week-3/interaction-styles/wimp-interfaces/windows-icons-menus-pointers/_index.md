@@ -7,6 +7,15 @@ weight: 1
 
 Windows, Icons, Menus, and Pointers (WIMP) are the fundamental elements of graphical user interfaces. Together they provide the primary means through which users interact with computer systems.
 
+```mermaid
+flowchart TD
+    T["Windows, Icons, Menus, and Pointers"]
+    T --> S1["Windows"]
+    T --> S2["Icons"]
+    T --> S3["Menus"]
+    T --> S4["Pointers"]
+```
+
 ## Windows
 
 Windows are areas of the screen that behave as if they were independent workspaces.

@@ -9,6 +9,15 @@ params:
 
 Evaluation is the process of assessing an interactive system to determine whether it meets user needs, usability goals, and user experience goals. It helps designers understand how well a system works, identify usability problems, and determine areas for improvement.
 
+```mermaid
+flowchart TD
+    T["Evaluation Types"]
+    T --> S1["Usability Evidence"]
+    T --> S2["UX Evidence"]
+    T --> S3["Problems Found"]
+    T --> S4["Design Improved"]
+```
+
 Evaluation is an important activity throughout the design process and can be performed on early prototypes, partially completed systems, or finished products. The goal is to gather evidence about how users interact with a system and whether the design successfully supports their tasks and expectations.
 
 Evaluation focuses on questions such as:

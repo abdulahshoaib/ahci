@@ -20,3 +20,16 @@ weight: 8
 | Examples | Sketches, wireframes, storyboards, index cards | Clickable apps, interactive websites, software prototypes |
 | Main Advantage | Fast and inexpensive iteration | Realistic testing and evaluation |
 | Main Limitation | Limited realism | Greater cost and development effort |
+```mermaid
+flowchart TD
+    T["Lo-fi vs Hi-fi Design"]
+    T --> S1["Low-Fidelity"]
+    T --> S2["Rough"]
+    T --> S3["Cheap"]
+    T --> S4["Fast Change"]
+    T --> S5["High-Fidelity"]
+    T --> S6["Realistic"]
+    T --> S7["Interactive"]
+    T --> S8["Costly"]
+```
+

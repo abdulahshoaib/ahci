@@ -7,6 +7,18 @@ weight: 3
 
 Attention is the process of selecting information to focus on from the many stimuli present in the environment. It allows people to concentrate on information relevant to their current task while ignoring less important information.
 
+```mermaid
+flowchart TD
+    T["Attention"]
+    T --> S1["Types of Attention"]
+    T --> S2["Characteristics of Attention"]
+    T --> S3["Information Layout and Attention"]
+    T --> S4["Multitasking and Attention"]
+    T --> S5["Attention in Safety-Critical Environments"]
+    T --> S6["Mobile Phones and Driving"]
+    T --> S7["Design Implications"]
+```
+
 ## Types of Attention
 
 ### Focused Attention

@@ -13,6 +13,15 @@ Wireframes are used to show how information and interface elements are arranged 
 
 Wireframes do not focus on colors, graphics, typography, or branding. Instead, they emphasize the organization of content and interface components.
 
+```mermaid
+flowchart TD
+    T["Wireframes"]
+    T --> S1["What a Wireframe Shows"]
+    T --> S2["Common Elements in Wireframes"]
+    T --> S3["Why Wireframes Are Important"]
+    T --> S4["Wireframes vs. Final Design"]
+```
+
 ## What a Wireframe Shows
 
 A wireframe typically illustrates:
@@ -33,73 +42,6 @@ A wireframe typically illustrates:
 | Input Fields | Accept user input |
 | Content Areas | Display information |
 | Labels and Placeholders | Indicate expected content |
-
-## Rules of Wireframing
-
-### No Color
-
-Wireframes use only grayscale colors such as:
-
-- White
-- Black
-- Gray
-
-This keeps attention focused on layout and functionality.
-
-### Use Placeholders
-
-Instead of actual content:
-
-- Images are represented by boxes containing an "X"
-- Text is represented by simple lines or placeholder text
-
-Example:
-
-```text
-+------------------+
-|        X         |
-|      Image       |
-+------------------+
-
----------------
----------------
----------------
-```
-
-### Use Standard Symbols
-
-Common interface symbols are used to represent familiar functions.
-
-Examples:
-
-- 🔍 Search
-- ☰ Menu
-- ← Back
-- → Next
-
-## Example Wireframe
-
-### Food Delivery App Home Screen
-
-```text
-+---------------------------+
-| Delivery Address          |
-+---------------------------+
-
-[ Search Restaurants 🔍 ]
-
-Order Again
-+------+ +------+ +------+
-|Burger| |Pizza | |Fries |
-+------+ +------+ +------+
-
-Categories
-🍔   🍕   🍣   ☕
-
----------------------------
- Home  Search Orders Profile
----------------------------
-```
 
 ## Why Wireframes Are Important
 

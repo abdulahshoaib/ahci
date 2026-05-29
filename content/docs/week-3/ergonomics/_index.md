@@ -11,6 +11,13 @@ It is also known as **Human Factors**. The goal of ergonomics is to design inter
 
 Ergonomics helps designers create systems that fit the capabilities and limitations of users rather than forcing users to adapt to the system.
 
+```mermaid
+flowchart TD
+    T["Ergonomics"]
+    T --> S1["Areas of Ergonomics"]
+    T --> S2["Why Ergonomics Matters"]
+```
+
 ## Areas of Ergonomics
 
 ### Arrangement of Controls and Displays

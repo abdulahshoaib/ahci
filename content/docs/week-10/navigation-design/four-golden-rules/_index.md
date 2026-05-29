@@ -16,6 +16,16 @@ They focus on helping users understand:
 
 These rules form the foundation of good navigation design.
 
+```mermaid
+flowchart TD
+    T["Four Golden Rules"]
+    T --> S1["1. Knowing Where You Are"]
+    T --> S2["2. Knowing What You Can Do"]
+    T --> S3["3. Knowing Where You Are Going"]
+    T --> S4["4. Knowing Where You Have Been"]
+    T --> S5["Why These Rules Matter"]
+```
+
 ## 1. Knowing Where You Are
 
 Users should always know their current location within the system.

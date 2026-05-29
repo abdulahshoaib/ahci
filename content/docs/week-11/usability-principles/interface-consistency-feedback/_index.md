@@ -9,6 +9,15 @@ Consistency and feedback are two of the most important principles in interface d
 
 Consistency helps users develop expectations about how a system behaves, while feedback keeps users informed about the results of their actions.
 
+```mermaid
+flowchart TD
+    T["Interface Consistency and Feedback"]
+    T --> S1["Interface Consistency"]
+    T --> S2["Feedback"]
+    T --> S3["Relationship Between Consistency and Feedback"]
+    T --> S4["Summary Table"]
+```
+
 ## Interface Consistency
 
 Consistency means that similar situations should result in similar behavior throughout the system.

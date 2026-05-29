@@ -9,6 +9,15 @@ Batch processing was one of the earliest interaction paradigms in computing. Use
 
 Users often had to wait a long time before receiving results.
 
+```mermaid
+flowchart TD
+    T["Batch Processing"]
+    T --> S1["Features of Batch Processing"]
+    T --> S2["Advantages"]
+    T --> S3["Disadvantages"]
+    T --> S4["Examples"]
+```
+
 ## Features of Batch Processing
 
 * No direct interaction with the computer

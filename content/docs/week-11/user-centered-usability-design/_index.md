@@ -11,6 +11,17 @@ The primary objective is to create systems that are effective, efficient, easy t
 
 Rather than designing based on technology alone, designers focus on how real users interact with the system and whether the design supports their tasks successfully.
 
+```mermaid
+flowchart TD
+    T["User-Centered Usability Design"]
+    T --> S1["Core Idea"]
+    T --> S2["Role of Usability Principles"]
+    T --> S3["Applying Design Rules"]
+    T --> S4["Importance of Feedback and Consistency"]
+    T --> S5["Error Prevention and Recovery"]
+    T --> S6["Goal of User-Centered Usability Design"]
+```
+
 ## Core Idea
 
 The success of an interactive system depends on how well it supports users in achieving their goals.

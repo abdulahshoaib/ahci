@@ -13,6 +13,15 @@ These three principles form the foundation of usability. They describe how easil
 | Flexibility | Different ways users and systems exchange information |
 | Robustness | Support provided to help users achieve and assess goals |
 
+```mermaid
+flowchart TD
+    T["Learnability, Flexibility, and Robustness"]
+    T --> S1["Learnability"]
+    T --> S2["Flexibility"]
+    T --> S3["Robustness"]
+    T --> S4["Relationship Between the Three Principles"]
+```
+
 ## Learnability
 
 Learnability refers to the ease with which new users can begin effective interaction and achieve maximum performance.
