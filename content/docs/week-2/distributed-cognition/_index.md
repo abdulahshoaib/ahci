@@ -5,14 +5,36 @@ weight: 11
 
 # Distributed Cognition
 
-Distributed cognition views thinking as something spread across people, tools, representations, and the environment. In many real tasks, cognition does not happen only inside one person's head.
+Distributed Cognition is concerned with understanding cognitive processes across individuals, artifacts, and both internal and external representations.
 
-## Examples
+Rather than viewing thinking as something that occurs entirely within a person's mind, distributed cognition considers how information is shared, transformed, and communicated through people, tools, and environments.
 
-- A medical team coordinating through charts, monitors, and conversation.
-- Pilots using instruments, checklists, and crew communication.
-- Students solving a problem with diagrams, notes, and calculators.
+Information moves through different forms of representation, such as:
 
-## Design Implication
+- Computers
+- Displays
+- Documents
+- Written notes
+- Human memory
 
-Interfaces should support coordination, shared understanding, handoffs, and the use of external representations.
+## What It Examines
+
+Distributed cognition focuses on:
+
+- How problem solving is distributed among people.
+- The role of verbal and non-verbal communication.
+- The rules and procedures used to coordinate activities.
+- How communication changes as collaboration progresses.
+- How knowledge is shared and accessed.
+
+## Example
+
+Air Traffic Control (ATC) is a distributed cognitive system.
+
+Controllers, pilots, radar displays, procedures, and communication systems work together to manage aircraft safely. Information is continuously exchanged and transformed between people and technological systems rather than being held by a single individual.
+
+## Importance in HCI
+
+Distributed cognition helps designers understand how people interact with technology and each other while performing collaborative tasks.
+
+It highlights the importance of communication, coordination, shared knowledge, and external representations in complex systems.

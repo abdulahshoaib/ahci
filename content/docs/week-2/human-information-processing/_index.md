@@ -5,17 +5,22 @@ weight: 2
 
 # Human Information Processing
 
-Human information processing describes how people receive information, interpret it, store it, retrieve it, and use it to guide action. In HCI, this helps explain why some interfaces feel easy while others feel confusing or demanding.
+Human Information Processing describes how people receive, store, process, and use information while interacting with their environment and technology. It is often compared to an information-processing system where information enters through the senses, is processed by the brain, stored in memory, and used to perform tasks.
 
-## Basic Flow
+In HCI, understanding how humans process information helps designers create interfaces that align with human cognitive abilities and limitations.
 
-1. Information is sensed through vision, hearing, touch, or other senses.
-2. Attention selects what receives mental focus.
-3. Perception gives meaning to the information.
-4. Memory stores or retrieves relevant knowledge.
-5. Decision making selects an action.
-6. Motor action carries out the response.
+The process begins with information input through the senses such as vision, hearing, touch, and movement. This information is then interpreted and processed, stored in memory when needed, and later retrieved to support reasoning, problem solving, and decision making.
 
-## Design Implication
+Human information processing is also influenced by emotions and individual differences. Factors such as stress, fatigue, age, experience, and physical abilities can affect how effectively users interact with a system.
 
-Good interfaces support this flow by presenting information clearly, minimizing distractions, and making actions easy to choose and perform.
+## Example
+
+When using a navigation app:
+
+1. The user sees directions on the screen (visual input).
+2. The information is interpreted and understood.
+3. The next instruction is temporarily stored in memory.
+4. The user decides which action to take.
+5. The user performs the action, such as turning left or right.
+
+This entire sequence demonstrates how information is received, processed, stored, and acted upon during interaction with a computer system.

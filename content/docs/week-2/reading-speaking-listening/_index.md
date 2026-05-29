@@ -5,16 +5,43 @@ weight: 7
 
 # Reading, Speaking, and Listening
 
-Reading, speaking, and listening are important human capabilities in interactive systems. Interfaces communicate through text, voice, audio cues, and conversation, so design must account for language, context, and accessibility.
+The ease with which people read, speak, and listen varies from person to person.
 
-## Reading
+Many people prefer listening to reading, while reading is often faster than speaking or listening. Listening generally requires less cognitive effort than reading or speaking.
 
-Readable interfaces use clear wording, appropriate font size, strong contrast, short labels, and scannable structure.
+People with dyslexia may experience difficulties understanding and recognizing written words, making text-based interaction more challenging.
 
-## Speaking
+## Applications
 
-Speech input can be useful when hands or eyes are busy, but it may be affected by noise, accents, privacy, and recognition errors.
+### Voice User Interfaces (VUIs)
 
-## Listening
+Voice user interfaces allow users to interact with systems by speaking commands or asking questions.
 
-Audio output can provide alerts and guidance, but it should not be the only channel for critical information unless the system is designed for that context.
+#### Examples
+
+- Siri
+- Alexa
+- Google Voice
+
+### Speech-Output Systems
+
+Speech-output systems use artificially generated speech to communicate information to users.
+
+#### Example
+
+- Text-to-speech systems for visually impaired users.
+
+### Natural Language Systems
+
+Natural language systems allow users to type questions in everyday language and receive text-based responses.
+
+#### Example
+
+- Chatbots
+
+## Design Implications
+
+- Speech-based menus and instructions should be short.
+- Artificially generated speech should use clear intonation.
+- Generated speech is generally harder to understand than human speech.
+- Interfaces should provide options for increasing text size on screens.
