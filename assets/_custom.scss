@@ -139,6 +139,22 @@ body {
       line-height: 1.2;
     }
   }
+
+  .rendered-html-example {
+    border: 1px solid var(--course-border);
+    border-radius: var(--border-radius);
+    background: var(--course-surface-2);
+    margin: 1rem 0;
+    overflow: hidden;
+  }
+
+  .rendered-html-example iframe {
+    border: 0;
+    display: block;
+    height: 26rem;
+    max-height: 70vh;
+    width: 100%;
+  }
 }
 
 a:focus-visible,
