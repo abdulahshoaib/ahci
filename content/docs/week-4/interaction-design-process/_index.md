@@ -7,16 +7,21 @@ params:
 
 # Interaction Design Process
 
-The interaction design process is a structured way to create usable, useful, and appropriate interactive systems. It moves from understanding the problem to producing, testing, and improving design solutions.
+Interaction Design is the process of creating interactive products that help people achieve their goals effectively, efficiently, and satisfactorily. It focuses on understanding users, identifying their needs, generating design solutions, creating prototypes, and evaluating whether those solutions work well.
 
-## Core Concerns
+The process is user-focused, meaning that users and their goals remain central throughout development. Rather than designing based on assumptions, designers study real users, their tasks, and the environments in which they work.
 
-- Understand the problem space.
-- Involve users throughout the process.
-- Follow user-centered design principles.
-- Carry out design activities iteratively.
-- Use lifecycle models to guide progress.
+Interaction Design is not a linear activity. It involves continuous refinement through feedback, testing, and iteration. Designers often explore multiple solutions before selecting the most suitable one, balancing usability, user experience, technical feasibility, and project constraints.
 
-## Design Implication
+The process generally involves:
 
-Interaction design is not a single step before coding. It is an ongoing cycle of investigation, design, prototyping, evaluation, and refinement.
+- Understanding the problem space
+- Discovering user requirements
+- Designing alternative solutions
+- Building prototypes
+- Evaluating designs with users
+- Refining designs based on feedback
+
+Interaction Design also requires making trade-offs because different stakeholders may have different needs and expectations. A successful design balances these competing requirements while maintaining a positive user experience.
+
+The overall goal is to create systems that are useful, usable, and enjoyable for the people who use them.

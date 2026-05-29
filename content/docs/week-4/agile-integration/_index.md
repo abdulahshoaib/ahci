@@ -5,16 +5,30 @@ weight: 6
 
 # Agile Integration
 
-Agile integration connects interaction design work with iterative software development. The challenge is to keep user research, design exploration, and evaluation active while development moves quickly.
+Interaction design activities often need to be integrated with lifecycle models from other disciplines, particularly software development.
 
-## Common Practices
+Successful integration requires careful planning so that design activities and development activities support each other throughout the project.
 
-- Research ahead of implementation.
-- Maintain a design backlog.
-- Prototype before sprint commitment.
-- Include usability criteria in acceptance criteria.
-- Test designs during or between iterations.
+## Interaction Design and Agile Development
 
-## Design Implication
+Integrating interaction design with agile software development is considered promising because agile methods share several characteristics that support user-centered design.
 
-Agile teams should avoid treating design as one upfront phase. HCI work must continue across sprints through discovery, prototyping, feedback, and refinement.
+### Tight Iterations
+
+Agile development uses short development cycles that allow designs to be refined and improved regularly.
+
+### Early and Regular Feedback
+
+Agile encourages continuous feedback throughout the project, helping teams identify and address issues quickly.
+
+### Emergent Requirements
+
+Requirements can evolve as new information is discovered, allowing the design to adapt to changing user needs.
+
+### Balance Between Flexibility and Structure
+
+Agile aims to provide enough structure to manage development while remaining flexible enough to accommodate changes and new insights.
+
+## Importance
+
+Combining interaction design with agile development helps ensure that user feedback, usability concerns, and design improvements can be incorporated continuously throughout the development process.

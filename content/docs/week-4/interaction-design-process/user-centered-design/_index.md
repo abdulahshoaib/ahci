@@ -3,18 +3,56 @@ title: User-Centered Design
 weight: 3
 ---
 
-# User-Centered Design
+# User-Centered Design (UCD)
 
-User-centered design is an approach where user needs, abilities, goals, and contexts guide design decisions. It relies on research, iterative design, and evaluation with users.
+User-Centered Design (UCD) is an approach to interaction design that places users, their needs, and their tasks at the center of the design process. The goal is to ensure that products are designed based on a clear understanding of the people who will use them.
 
-## Principles
+A user-centered approach is based on three main principles.
 
-- Focus on users and tasks early.
-- Measure usability empirically.
-- Design iteratively.
-- Consider whole user experience.
-- Include accessibility and context of use.
+## Early Focus on Users and Tasks
 
-## Design Implication
+Designers study users from the beginning of the project rather than making assumptions about them.
 
-User-centered design helps teams build systems that are not only functional but also understandable, efficient, and satisfying to use.
+This includes examining:
+
+- Cognitive characteristics
+- Behavioral characteristics
+- Anthropomorphic characteristics
+- Attitudinal characteristics
+
+The aim is to understand who the users are, what they do, how they work, and what they need from the system.
+
+## Empirical Measurement
+
+Design decisions are supported by observation and evidence rather than personal opinions.
+
+Users interact with:
+
+- Scenarios
+- Manuals
+- Simulations
+- Prototypes
+
+Their reactions and performance are then:
+
+- Observed
+- Recorded
+- Measured
+- Analyzed
+
+The collected data helps determine whether the design successfully supports users and their tasks.
+
+## Iterative Design
+
+Design is treated as a continuous improvement process.
+
+When user testing identifies problems:
+
+1. The problems are analyzed.
+2. The design is modified.
+3. Additional testing is carried out.
+4. The cycle repeats until the design improves.
+
+This iterative process helps refine the product and ensures that usability and user experience issues are addressed before release.
+
+User-Centered Design therefore relies on understanding users early, evaluating designs using measurable evidence, and repeatedly refining solutions based on user feedback.
