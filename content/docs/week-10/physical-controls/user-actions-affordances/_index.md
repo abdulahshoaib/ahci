@@ -30,7 +30,7 @@ Users should always be able to distinguish between:
 
 Consistent visual styles help users identify where they can click, type, or interact.
 
-# Affordances
+## Affordances
 
 Affordance is a concept that describes how the appearance of an object suggests the actions that can be performed on it.
 
@@ -53,3 +53,9 @@ Examples:
 Affordances are influenced by both physical appearance and learned conventions. Users often understand how to interact with interface elements because they resemble familiar objects or follow common design standards.
 
 Good affordances make actions obvious, reduce confusion, and help users understand how to interact with a system without requiring instructions.
+
+## Related Notes
+
+- [Affordances](../../../week-1/design-principles/affordances/)
+- [Grouping & Alignment](../../screen-layout/grouping-alignment/)
+- [Interface Consistency and Feedback](../../../week-11/usability-principles/interface-consistency-feedback/)

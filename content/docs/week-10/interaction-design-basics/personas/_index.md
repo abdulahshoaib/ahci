@@ -29,7 +29,7 @@ A persona may include:
 - Goals and concerns
 - Physical abilities or limitations
 
-### Example Persona
+## Example Persona
 
 **Betty**
 
@@ -47,3 +47,9 @@ A persona may include:
 This information helps designers understand how Betty might react to new technology and what support she may need.
 
 Personas keep the design focused on real user needs rather than designer assumptions and provide a consistent reference throughout the design process.
+
+## Related Notes
+
+- [User Focus](../user-focus/)
+- [Scenarios](../scenarios/)
+- [Personas](../../../week-5/personas/)

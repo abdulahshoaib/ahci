@@ -24,7 +24,7 @@ Scenarios are used to:
 - Explore interactions and user thinking
 - Reuse design knowledge throughout development
 
-Scenarios can help designers explore:
+## Areas Explored by Scenarios
 
 ### Interaction
 
@@ -75,3 +75,10 @@ This scenario helps designers understand:
 - Information required at each step
 
 Scenarios are used throughout the design process to explore, communicate, evaluate, and refine design ideas.
+
+## Related Notes
+
+- [Personas](../personas/)
+- [Scenarios and Design Exploration](../../../week-8/scenarios-design-exploration/)
+- [Scenarios](../../../week-5/scenarios/)
+- [Use Cases](../../../week-5/use-cases/)

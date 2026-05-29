@@ -88,18 +88,13 @@ Many applications allow users to customize toolbars by:
 Toolbar buttons often appear as icons that behave like buttons.
 
 They are grouped together to provide quick access to related actions and functions.
-# Dialog Boxes and Toolbars
-
-Dialog boxes and toolbars extend WIMP interfaces by supporting focused decisions and quick access to frequent actions.
-
-## Dialog Boxes
-
-Dialog boxes request input, confirm decisions, show warnings, or guide users through a small task. They should be clear, focused, and easy to dismiss or complete.
-
-## Toolbars
-
-Toolbars provide visible shortcuts to common commands. They are useful when actions are frequent and can be represented clearly with icons or short labels.
 
 ## Design Implication
 
 Dialogs should not interrupt unnecessarily, and toolbars should not become cluttered with rarely used commands.
+
+## Related Notes
+
+- [WIMP Interfaces](../)
+- [WIMP Design Principles](../wimp-design-principles/)
+- [Error Prevention and Recovery](../../../../week-11/usability-principles/error-prevention-recovery/)

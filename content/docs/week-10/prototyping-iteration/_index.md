@@ -80,3 +80,10 @@ Potential problems include:
 To be effective, designers must understand both the design goals and the problems identified during evaluation.
 
 Prototyping and iteration work together to gradually improve a system until it satisfies user needs and design objectives.
+
+## Related Notes
+
+- [Prototyping Overview](../../week-8/prototyping-overview/)
+- [Types of Prototypes](../../week-8/types-of-prototypes/)
+- [Iterative Evaluation](../../week-14/iterative-evaluation/)
+- [Evaluation Basics](../../week-14/evaluation-basics/)
