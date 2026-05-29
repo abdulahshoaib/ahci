@@ -5,16 +5,40 @@ weight: 1
 
 # Command Line Interfaces
 
-Command line interfaces let users type commands to control a system. They are powerful and efficient for expert users but require users to remember command names, syntax, and parameters.
+A Command Line Interface (CLI) is an interaction style that allows users to communicate with a computer by typing instructions directly.
 
-## Strengths
+Commands may consist of:
 
-- Fast for repeated or precise tasks.
-- Supports automation and scripting.
-- Offers high control and flexibility.
+- Function keys
+- Single characters
+- Short abbreviations
+- Whole words
+- Combinations of these
 
-## Weaknesses
+The user enters commands through a keyboard, and the system executes the requested operations.
 
-- Difficult for beginners.
-- Errors can occur from small syntax mistakes.
-- Available actions are often not visible.
+## Characteristics
+
+- Provides direct access to system functionality
+- Commands are entered as text
+- Interaction is primarily keyboard-based
+- Requires users to remember command names and syntax
+- Command names and abbreviations should be meaningful
+
+## Advantages
+
+- Suitable for repetitive tasks
+- Fast and efficient for experienced users
+- Provides powerful and direct control over the system
+- Allows quick access to a wide range of functions
+
+## Disadvantages
+
+- Difficult for novice users
+- Requires memorization of commands and syntax
+- Less visually intuitive than graphical interfaces
+- Errors can occur if commands are entered incorrectly
+
+## Typical Example
+
+The Unix operating system is a common example of a Command Line Interface.
