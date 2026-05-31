@@ -1,16 +1,17 @@
 ---
+title: "Week 14: Evaluation"
 weight: 14
 params:
   bookCollapseSection: true
 ---
 
-# Week 14
+# Week 14: Evaluation
 
 Week 14 covers evaluation methods, usability testing, analytical inspection, predictive models, reliability, validity, and ethics.
 
 ```mermaid
 flowchart TD
-    T["Week 14"]
+    T["Week 14: Evaluation"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

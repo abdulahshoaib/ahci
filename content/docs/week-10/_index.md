@@ -1,16 +1,17 @@
 ---
+title: "Week 10: Practical Interaction Design"
 weight: 10
 params:
   bookCollapseSection: true
 ---
 
-# Week 10
+# Week 10: Practical Interaction Design
 
 Week 10 focuses on practical interaction design basics: user focus, navigation, layout, controls, presentation, aesthetics, localisation, and iterative prototyping.
 
 ```mermaid
 flowchart TD
-    T["Week 10"]
+    T["Week 10: Practical Interaction Design"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

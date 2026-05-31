@@ -1,16 +1,17 @@
 ---
+title: "Week 3: Interaction Models and Styles"
 weight: 3
 params:
   bookCollapseSection: true
 ---
 
-# Week 3
+# Week 3: Interaction Models and Styles
 
 Week 3 introduces interaction models, ergonomic concerns, and common interaction styles. The focus is on how users move from goals to actions, how systems communicate results, and how interface styles shape the user's experience.
 
 ```mermaid
 flowchart TD
-    T["Week 3"]
+    T["Week 3: Interaction Models and Styles"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

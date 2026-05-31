@@ -1,16 +1,17 @@
 ---
+title: "Week 5: Discovering Requirements"
 weight: 5
 params:
   bookCollapseSection: true
 ---
 
-# Week 5
+# Week 5: Discovering Requirements
 
 Week 5 covers discovering requirements for interactive systems. Focus is on understanding users, tasks, environments, data, usability goals, and methods for collecting design evidence.
 
 ```mermaid
 flowchart TD
-    T["Week 5"]
+    T["Week 5: Discovering Requirements"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

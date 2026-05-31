@@ -1,16 +1,17 @@
 ---
+title: "Week 13: Bad Design and Best Practices"
 weight: 13
 params:
   bookCollapseSection: true
 ---
 
-# Week 13
+# Week 13: Bad Design and Best Practices
 
 Week 13 studies bad website and UI design examples, common UX failures, dark patterns, and best practices for usable, ethical, and effective interfaces.
 
 ```mermaid
 flowchart TD
-    T["Week 13"]
+    T["Week 13: Bad Design and Best Practices"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

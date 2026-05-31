@@ -1,16 +1,17 @@
 ---
+title: "Week 12: Usability and UX Goals"
 weight: 12
 params:
   bookCollapseSection: true
 ---
 
-# Week 12
+# Week 12: Usability and UX Goals
 
 Week 12 covers user control, error prevention, usability and UX goals, evaluation types, measurement, and Theo Mandel's golden rules.
 
 ```mermaid
 flowchart TD
-    T["Week 12"]
+    T["Week 12: Usability and UX Goals"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

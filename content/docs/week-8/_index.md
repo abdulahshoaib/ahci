@@ -1,16 +1,17 @@
 ---
+title: "Week 8: Prototyping and Design Exploration"
 weight: 8
 params:
   bookCollapseSection: true
 ---
 
-# Week 8
+# Week 8: Prototyping and Design Exploration
 
 Week 8 covers designing with people, participatory methods, prototyping, conceptual design, wireframes, and design exploration. Focus is moving from user understanding to visible, testable design ideas.
 
 ```mermaid
 flowchart TD
-    T["Week 8"]
+    T["Week 8: Prototyping and Design Exploration"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

@@ -1,16 +1,17 @@
 ---
+title: "Week 11: Design Rules"
 weight: 11
 params:
   bookCollapseSection: true
 ---
 
-# Week 11
+# Week 11: Design Rules
 
 Week 11 covers design rules: principles, standards, guidelines, usability rules, HCI patterns, accessibility, error recovery, consistency, feedback, and user-centered usability design.
 
 ```mermaid
 flowchart TD
-    T["Week 11"]
+    T["Week 11: Design Rules"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

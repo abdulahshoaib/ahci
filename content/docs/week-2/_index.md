@@ -1,16 +1,17 @@
 ---
+title: "Week 2: Cognitive Aspects"
 weight: 2
 params:
   bookCollapseSection: true
 ---
 
-# Week 2
+# Week 2: Cognitive Aspects
 
 Week 2 focuses on the cognitive side of HCI: how people perceive information, pay attention, remember, learn, solve problems, and form expectations about interactive systems.
 
 ```mermaid
 flowchart TD
-    T["Week 2"]
+    T["Week 2: Cognitive Aspects"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

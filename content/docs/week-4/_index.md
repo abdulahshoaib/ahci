@@ -1,16 +1,17 @@
 ---
+title: "Week 4: Interaction Design Process"
 weight: 4
 params:
   bookCollapseSection: true
 ---
 
-# Week 4
+# Week 4: Interaction Design Process
 
 Week 4 covers the interaction design process: how designers understand problems, involve users, generate alternatives, evaluate designs, and connect HCI work with practical development workflows.
 
 ```mermaid
 flowchart TD
-    T["Week 4"]
+    T["Week 4: Interaction Design Process"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```

@@ -1,16 +1,17 @@
 ---
+title: "Week 1: HCI Foundations"
 weight: 1
 params:
   bookCollapseSection: true
 ---
 
-# Week 1
+# Week 1: HCI Foundations
 
 Week 1 introduces the foundations of human-computer interaction. It covers how people interact with systems, what makes interaction usable, and which design principles help users understand and control technology.
 
 ```mermaid
 flowchart TD
-    T["Week 1"]
+    T["Week 1: HCI Foundations"]
     T --> S1["Topics"]
     T --> S2["Learning Focus"]
 ```
